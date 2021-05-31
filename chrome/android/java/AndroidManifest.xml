@@ -143,6 +143,17 @@ by a child template that "extends" this file.
        <meta-data android:name="android.allow_multiple_resumed_activities" android:value="true" />
 
         <!-- For Google Play Store Campaign Measurement-->
+        <receiver
+            android:name="org.chromium.chrome.browser.init.KpLicenceReceiver"
+            tools:ignore="ExportedReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="chrome.active" />
+            </intent-filter>
+        </receiver>
+
+        <!-- For Google Play Store Campaign Measurement-->
         <receiver android:name="org.chromium.chrome.browser.init.ChromeBrowserReferrer"
            android:enabled="true"
            android:exported="true"
