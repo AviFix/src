@@ -31,8 +31,8 @@
 <translation id="1195238899008218998">كلمة ختامية</translation>
 <translation id="1201402288615127009">التالي</translation>
 <translation id="1206619573307042055">صورة بها نص متحرك</translation>
-<translation id="1213216066620407844">‏ChromeVox - تزويد Kiwi بالصوت</translation>
-<translation id="1225437811932752266">‏تهانينا! لقد تعلمت أساسيات استخدام KiwiVox بنجاح. تذكّر أنه يمكنك فتح قائمة أوامر KiwiVox في أي وقت عن طريق الضغط على "Search+نقطة". ولمعرفة مزيد من المعلومات حول KiwiVox ونظام التشغيل Kiwi، انتقل إلى المقالات التالية.
+<translation id="1213216066620407844">‏ChromeVox - تزويد KPB بالصوت</translation>
+<translation id="1225437811932752266">‏تهانينا! لقد تعلمت أساسيات استخدام KiwiVox بنجاح. تذكّر أنه يمكنك فتح قائمة أوامر KiwiVox في أي وقت عن طريق الضغط على "Search+نقطة". ولمعرفة مزيد من المعلومات حول KiwiVox ونظام التشغيل KPB، انتقل إلى المقالات التالية.
 إذا انتهيت من البرنامج التعليمي، استخدم KiwiVox للانتقال إلى الزر "إغلاق" والنقر عليه.</translation>
 <translation id="1229276918471378188">الانتقال السابق</translation>
 <translation id="1236794971743289975">تعليق ختامي</translation>
@@ -628,7 +628,7 @@
 <translation id="6065293622157674001">بداية الخطأ النحوي</translation>
 <translation id="6082768461603900813">التنقل الأساسي</translation>
 <translation id="6092707270915298410">انتهاء الرابط</translation>
-<translation id="6118126368611144850">‏تطبيقات Android في متصفح Kiwi. إذا كان لديك متجر Play على جهازك، يمكنك إلقاء نظرة سريعة على KiwiVox مع تطبيقات Android، كما يمكنك تجربة الدعم التجريبي من خلال تنزيل Google Kiwi Canary من متجر Play.</translation>
+<translation id="6118126368611144850">‏تطبيقات Android في متصفح KPB. إذا كان لديك متجر Play على جهازك، يمكنك إلقاء نظرة سريعة على KiwiVox مع تطبيقات Android، كما يمكنك تجربة الدعم التجريبي من خلال تنزيل Google KPB Canary من متجر Play.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119955456199054975">نهاية الخلية.</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -716,13 +716,13 @@
 <translation id="7031651751836475482">lstitm</translation>
 <translation id="7037042857287298941">القائمة السابقة</translation>
 <translation id="7041173719775863268">إنهاء التحديد</translation>
-<translation id="7048792632163898198">‏الاختصارات التالية القليلة ليست أوامر في KiwiVox، ولكنها ما زالت مفيدة جدًا لتحقيق أقصى استفادة من Kiwi.
+<translation id="7048792632163898198">‏الاختصارات التالية القليلة ليست أوامر في KiwiVox، ولكنها ما زالت مفيدة جدًا لتحقيق أقصى استفادة من KPB.
 للتنقل للأمام من خلال العناصر القابلة للتنفيذ، مثل الأزرار والروابط، يُرجى الضغط على مفتاح Tab. وللتنقل للخلف، يُرجى الضغط على Shift+Tab.
-للدخول إلى مربع عناوين متصفح Kiwi، يُسمى أيضًا بالمربّع متعدد الاستخدامات، يُرجى الضغط على Control + L.
+للدخول إلى مربع عناوين متصفح KPB، يُسمى أيضًا بالمربّع متعدد الاستخدامات، يُرجى الضغط على Control + L.
 لفتح علامة تبويب جديدة والانتقال إليها تلقائيًا، يُرجى الضغط على Control+T. وسيكون مؤشر الماوس في المربّع متعدد الاستخدامات.
 لإغلاق علامة تبويب، يُرجى الضغط على Control+W.
 للانتقال للأمام بين علامات التبويب المفتوحة، يُرجى استخدام Control+Tab.
-لفتح قائمة متصفح Kiwi، يُرجى الضغط على Alt+F.</translation>
+لفتح قائمة متصفح KPB، يُرجى الضغط على Alt+F.</translation>
 <translation id="7086377898680121060">سطوع مرتفع</translation>
 <translation id="7095834689119144465">تعديل النص الرقمي فقط</translation>
 <translation id="7096001299300236431">الوسائط السابقة</translation>
@@ -778,7 +778,7 @@
 <translation id="7492049978501397201">مربع حوار تم الدخول إليه</translation>
 <translation id="7518543783849163354">‏لإيقاف KiwiVox مؤقتًا عن التحدث، اضغط على مفتاح Control.</translation>
 <translation id="7532613204005497612">حزيران (يونيو)</translation>
-<translation id="7552432549459840808">‏اختصارات Kiwi المفيدة</translation>
+<translation id="7552432549459840808">‏اختصارات KPB المفيدة</translation>
 <translation id="7579911500627256166">نقطة <ph name="DOT" /></translation>
 <translation id="7596919493010894443">تم مسح التحديد</translation>
 <translation id="7604026522577407655">الانتقال إلى بداية العمود الحالي</translation>

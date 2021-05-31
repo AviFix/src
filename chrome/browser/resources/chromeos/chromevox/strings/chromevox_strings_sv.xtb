@@ -31,8 +31,8 @@
 <translation id="1195238899008218998">Efterord</translation>
 <translation id="1201402288615127009">Nästa</translation>
 <translation id="1206619573307042055">markör</translation>
-<translation id="1213216066620407844">ChromeVox – ger röst åt Kiwi</translation>
-<translation id="1225437811932752266">Grattis! Nu kan du grunderna i att använda KiwiVox. Kom ihåg att du kan öppna kommandomenyn för KiwiVox när som helst genom att trycka på söktangenten + punkt. Om du vill veta ännu mer om KiwiVox och Kiwi OS kan du läsa följande artiklar.
+<translation id="1213216066620407844">ChromeVox – ger röst åt KPB</translation>
+<translation id="1225437811932752266">Grattis! Nu kan du grunderna i att använda KiwiVox. Kom ihåg att du kan öppna kommandomenyn för KiwiVox när som helst genom att trycka på söktangenten + punkt. Om du vill veta ännu mer om KiwiVox och KPB OS kan du läsa följande artiklar.
 Om du är klar med självstudierna kan du använda KiwiVox till att navigera till stängningsknappen och klicka på den.</translation>
 <translation id="1229276918471378188">Föregående hopp</translation>
 <translation id="1236794971743289975">Slutnot</translation>
@@ -628,7 +628,7 @@ Om du är klar med självstudierna kan du använda KiwiVox till att navigera til
 <translation id="6065293622157674001">Grammatikfel börjar</translation>
 <translation id="6082768461603900813">Grundläggande navigering</translation>
 <translation id="6092707270915298410">Länkslut</translation>
-<translation id="6118126368611144850">Android-appar till Kiwi. Du kan få en förhandstitt på hur KiwiVox fungerar med Android-appar om Play Butik är installerat på enheten. Ladda ned Google Kiwi Canary från Play Butik och testa det experimentella stödet för Android-appar.</translation>
+<translation id="6118126368611144850">Android-appar till KPB. Du kan få en förhandstitt på hur KiwiVox fungerar med Android-appar om Play Butik är installerat på enheten. Ladda ned Google KPB Canary från Play Butik och testa det experimentella stödet för Android-appar.</translation>
 <translation id="611827076493383239">besökt</translation>
 <translation id="6119955456199054975">Slutet av cellen.</translation>
 <translation id="6122013438240733403">knapp</translation>
@@ -716,13 +716,13 @@ Om du är klar med självstudierna kan du använda KiwiVox till att navigera til
 <translation id="7031651751836475482">listpost</translation>
 <translation id="7037042857287298941">Föregående lista</translation>
 <translation id="7041173719775863268">Avsluta markering</translation>
-<translation id="7048792632163898198">De följande kortkommandona är inte KiwiVox-kommandon, men de är fortfarande mycket användbara för att få ut så mycket som möjligt av Kiwi.
+<translation id="7048792632163898198">De följande kortkommandona är inte KiwiVox-kommandon, men de är fortfarande mycket användbara för att få ut så mycket som möjligt av KPB.
 Navigera framåt genom objekt som knappar och länkar genom att trycka på tabbtangenten. Navigera bakåt genom att trycka på Skift + tabbtangenten.
-Öppna adressfältet i Kiwi genom att trycka på Ctrl + L.
+Öppna adressfältet i KPB genom att trycka på Ctrl + L.
 Öppna en ny flik automatiskt genom att trycka på Ctrl + T. Markören är i adressfältet.
 Stäng en flik genom att trycka Ctrl + W.
 Flytta framåt mellan öppna flikar genom att trycka på Ctrl + tabbtangenten.
-Öppna Kiwi-menyn genom att trycka på Alt + F.</translation>
+Öppna KPB-menyn genom att trycka på Alt + F.</translation>
 <translation id="7086377898680121060">öka ljusstyrkan</translation>
 <translation id="7095834689119144465">Textinmatning, endast tal</translation>
 <translation id="7096001299300236431">Föregående media</translation>
@@ -778,7 +778,7 @@ Flytta framåt mellan öppna flikar genom att trycka på Ctrl + tabbtangenten.
 <translation id="7492049978501397201">Dialogruta öppnad</translation>
 <translation id="7518543783849163354">Stoppa KiwiVox från att tala genom att trycka på Ctrl-tangenten.</translation>
 <translation id="7532613204005497612">juni</translation>
-<translation id="7552432549459840808">Användbara kortkommandon i Kiwi</translation>
+<translation id="7552432549459840808">Användbara kortkommandon i KPB</translation>
 <translation id="7579911500627256166">punkt <ph name="DOT" /></translation>
 <translation id="7596919493010894443">markering borttagen</translation>
 <translation id="7604026522577407655">Flytta till början av den aktuella kolumnen</translation>

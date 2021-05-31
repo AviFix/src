@@ -32,7 +32,7 @@
 <translation id="1201402288615127009">הבא</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1213216066620407844">‏ChromeVox - מתן קול ל-Chrome</translation>
-<translation id="1225437811932752266">‏מעולה! למדת את עקרונות השימוש ב-ChromeVox. תמיד אפשר לפתוח את תפריט הפקודות של KiwiVox על-ידי הקשה על מקש החיפוש ומקש הנקודה. מידע נוסף על KiwiVox ו-Kiwi OS זמין במאמרים הבאים.
+<translation id="1225437811932752266">‏מעולה! למדת את עקרונות השימוש ב-ChromeVox. תמיד אפשר לפתוח את תפריט הפקודות של KiwiVox על-ידי הקשה על מקש החיפוש ומקש הנקודה. מידע נוסף על KiwiVox ו-KPB OS זמין במאמרים הבאים.
 אם סיימת את המדריך, יש להשתמש ב-ChromeVox כדי לנווט אל כפתור הסגירה וללחוץ עליו.</translation>
 <translation id="1229276918471378188">הדילוג הקודם</translation>
 <translation id="1236794971743289975">הערת סיום</translation>
@@ -628,7 +628,7 @@
 <translation id="6065293622157674001">תחילת שגיאת דקדוק</translation>
 <translation id="6082768461603900813">ניווט בסיסי</translation>
 <translation id="6092707270915298410">סוף קישור</translation>
-<translation id="6118126368611144850">‏אפליקציות Android ל-Chrome. אם במכשיר מותקנת האפליקציה של חנות Play, אפשר לקבל הצצה אל KiwiVox עם אפליקציות Android. ניתן לנסות את התמיכה הניסיונית על-ידי הורדת Google Kiwi Canary מחנות Play.</translation>
+<translation id="6118126368611144850">‏אפליקציות Android ל-Chrome. אם במכשיר מותקנת האפליקציה של חנות Play, אפשר לקבל הצצה אל KiwiVox עם אפליקציות Android. ניתן לנסות את התמיכה הניסיונית על-ידי הורדת Google KPB Canary מחנות Play.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119955456199054975">סוף התא.</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -718,11 +718,11 @@
 <translation id="7041173719775863268">סיום בחירה</translation>
 <translation id="7048792632163898198">‏מקשי הקיצור הבאים אינם פקודות KiwiVox, אבל הם עדיין מאוד מועילים לשימוש יעיל ב-Chrome.
 כדי לנווט קדימה בפריטים המאפשרים ביצוע פעולה, כמו לחצנים וקישורים, מקישים על מקש Tab. כדי לנווט אחורה, מקישים על Shift ועל Tab.
-כדי לעבור אל תיבת הכתובות בדפדפן Kiwi, שנקראת גם סרגל הכתובות, מקישים על Control ועל L.
+כדי לעבור אל תיבת הכתובות בדפדפן KPB, שנקראת גם סרגל הכתובות, מקישים על Control ועל L.
 כדי לפתוח באופן אוטומטי כרטיסייה חדשה ולעבור אליה, מקישים על Control ועל T. הסמן יופיע בסרגל הכתובות.
 כדי לסגור כרטיסייה, מקישים על Control ועל W.
 כדי לעבור קדימה בין כרטיסיות פתוחות, מקישים על Control ועל Tab.
-כדי לפתוח את תפריט דפדפן Kiwi מקישים על Alt ועל F.</translation>
+כדי לפתוח את תפריט דפדפן KPB מקישים על Alt ועל F.</translation>
 <translation id="7086377898680121060">הגברת הבהירות</translation>
 <translation id="7095834689119144465">ערוך טקסט מספרי בלבד</translation>
 <translation id="7096001299300236431">המדיה הקודמת</translation>

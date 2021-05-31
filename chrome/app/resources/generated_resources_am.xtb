@@ -50,7 +50,7 @@
 <translation id="1067291318998134776">Linux (ቅድመ-ይሁንታ)</translation>
 <translation id="1067922213147265141">ሌሎች የGoogle አገልግሎቶች</translation>
 <translation id="1070066693520972135">WEP</translation>
-<translation id="1070377999570795893">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Kiwi የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ቅጥያ አክሏል።
+<translation id="1070377999570795893">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም KPB የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ቅጥያ አክሏል።
 
 <ph name="EXTENSION_NAME" /></translation>
 <translation id="1071917609930274619">የውሂብ ሚስጥራዊነት</translation>
@@ -58,7 +58,7 @@
 <translation id="1076818208934827215">Microsoft Internet Explorer</translation>
 <translation id="1077946062898560804">ለሁሉም ተጠቃሚዎች አውቶማቲክ ዝምኖችን አዋቅር</translation>
 <translation id="1079766198702302550">ሁልጊዜ የካሜራ መዳረሻ አግድ</translation>
-<translation id="1082398631555931481"><ph name="THIRD_PARTY_TOOL_NAME" />የእርስዎ Kiwi ቅንብሮች ወደ የመጀመሪያቸው ነባሪዎች መመለስ ፈልጓል። ይሄ የእርስዎን መነሻ ገጽ፣ አዲስ የትር ገጽ እና የፍለጋ ፕሮግራም ዳግም ያስጀምራቸዋል፣ ቅጥያዎችዎን ያሰናክላቸዋል፣ እና ሁሉንም ትሮች ይነቅላቸዋል። እንዲሁም ሌሎች እንደ ኩኪዎች፣ ይዘት እና የጣቢያ ውሂብ ያለ ጊዜያዊ እና የተሸጎጠ ውሂብንም ያጸዳል።</translation>
+<translation id="1082398631555931481"><ph name="THIRD_PARTY_TOOL_NAME" />የእርስዎ KPB ቅንብሮች ወደ የመጀመሪያቸው ነባሪዎች መመለስ ፈልጓል። ይሄ የእርስዎን መነሻ ገጽ፣ አዲስ የትር ገጽ እና የፍለጋ ፕሮግራም ዳግም ያስጀምራቸዋል፣ ቅጥያዎችዎን ያሰናክላቸዋል፣ እና ሁሉንም ትሮች ይነቅላቸዋል። እንዲሁም ሌሎች እንደ ኩኪዎች፣ ይዘት እና የጣቢያ ውሂብ ያለ ጊዜያዊ እና የተሸጎጠ ውሂብንም ያጸዳል።</translation>
 <translation id="1082725763867769612">የመስመር ውጭ ፋይሎች</translation>
 <translation id="1084824384139382525">የአገናኝ አድ&amp;ራሻ ቅዳ</translation>
 <translation id="1089439967362294234">የይለፍ ቃል ቀይር</translation>
@@ -226,7 +226,7 @@
 <translation id="1316495628809031177">ስምረት ባለበት ቆሟል</translation>
 <translation id="1319979322914001937">ከKiwi የድር መደብር የመጡ ቅጥያዎች የተጣራ ዝርዝርን የሚያሳይ መተግበሪያ። በዝርዝሩ ውስጥ ያሉ ቅጥያዎች ከመተግበሪያው በቀጥታ ሊጫኑ ይችላሉ።</translation>
 <translation id="132090119144658135">የርዕሰ ጉዳይ ተዛማጅ፦</translation>
-<translation id="1326317727527857210">ትሮችዎን ከሌሎች መሣሪያዎችዎ ለማግኘት ወደ Kiwi ይግቡ።</translation>
+<translation id="1326317727527857210">ትሮችዎን ከሌሎች መሣሪያዎችዎ ለማግኘት ወደ KPB ይግቡ።</translation>
 <translation id="1327074568633507428">በGoogle ደመና ህትመት ላይ ያለ አታሚ</translation>
 <translation id="1327977588028644528">አግባቢ ፍኖት</translation>
 <translation id="1329584516321524826">አሁን የተዘመነ</translation>
@@ -398,7 +398,7 @@
 <translation id="1576594961618857597">ነባሪ ነጭ አምሳያ</translation>
 <translation id="1581962803218266616">በፈላጊ ውስጥ አሳይ</translation>
 <translation id="1584990664401018068">እየተጠቀሙ ያሉት Wi-Fi አውታረ መረብ (<ph name="NETWORK_ID" />) ማረጋገጫን ሊጠይቅ ይችላል።</translation>
-<translation id="1585717515139318619">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Kiwi የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ገጽታ አክሏል።
+<translation id="1585717515139318619">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም KPB የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ገጽታ አክሏል።
 
 <ph name="EXTENSION_NAME" /></translation>
 <translation id="1587275751631642843">&amp;ጃቫስክሪፕት ኮንሶል</translation>
@@ -701,7 +701,7 @@
 <translation id="2053312383184521053">የስራ-ፈት ሁኔታ ውሂብ</translation>
 <translation id="205560151218727633">የGoogle ረዳት ዓርማ</translation>
 <translation id="2059913712424898428">የሰዓት ሰቅ</translation>
-<translation id="2065405795449409761">Kiwi በራስ-ሰር የሙከራ ሶፍትዌር ቁጥጥር ሥር ነው።</translation>
+<translation id="2065405795449409761">KPB በራስ-ሰር የሙከራ ሶፍትዌር ቁጥጥር ሥር ነው።</translation>
 <translation id="2070909990982335904">በነጥብ የሚጀምሩ ስሞች ለስርዓቱ የተቀመጡ ናቸው። እባክዎ ሌላ ስም ይምረጡ።</translation>
 <translation id="2071393345806050157">ምንም አካባቢያዊ የምዝግብ ማስታወሻ ፋይል የለም።</translation>
 <translation id="2074527029802029717">ትር ይንቀሉ</translation>
@@ -717,12 +717,12 @@
 <translation id="2084108471225856927">የመሣሪያ ቅንብሮች</translation>
 <translation id="2085470240340828803">«<ph name="FILENAME" />» የሚባል ፋይል አስቀድሞ አለ። ምን ማድረግ ይፈልጋሉ?</translation>
 <translation id="2087822576218954668">አትም፦ <ph name="PRINT_NAME" /></translation>
-<translation id="2089566709556890888">ከGoogle Kiwi ጋር ደህንነቱ በተጠበቀ ሁኔታ ያስሱ</translation>
+<translation id="2089566709556890888">ከGoogle KPB ጋር ደህንነቱ በተጠበቀ ሁኔታ ያስሱ</translation>
 <translation id="2089795179672254991">አንድ ጣቢያ እርስዎ ወደ ቅንጥብ ሰሌዳ የቀዱትን ጽሑፍ እና ምስሎች መመልከት ሲፈልግ ይጠይቅ (የሚመከር)</translation>
 <translation id="2090165459409185032">የጠፋብዎትን የመለያ መረጃ መልሶ ለማግኘት፣ ወደዚህ ይሂዱ፦ google.com/accounts/recovery</translation>
 <translation id="2090876986345970080">የስርዓት ደህንነት ቅንብር</translation>
 <translation id="2091887806945687916">ድምፅ</translation>
-<translation id="2097372108957554726">አዲስ መሣሪያዎችን ለማስመዝገብ በመለያ ወደ Kiwi መግባት አለብዎት</translation>
+<translation id="2097372108957554726">አዲስ መሣሪያዎችን ለማስመዝገብ በመለያ ወደ KPB መግባት አለብዎት</translation>
 <translation id="2098305189700762159">አልተገኘም</translation>
 <translation id="2099172618127234427">የsshd ስውር አገልጋይን የሚያዋቅሩ እና ከዩኤስቢ አንጻፊዎች ማስነሳትን የሚያነቁ የKiwi OS ማረሚያ ባህሪያትን እያነቁ ነው።</translation>
 <translation id="2099686503067610784">«<ph name="CERTIFICATE_NAME" />» የአገልጋይ እውቅና ማረጋገጫ ይሰረዝ?</translation>
@@ -794,7 +794,7 @@
 <translation id="2193365732679659387">የእምነት ቅንብሮች</translation>
 <translation id="2195729137168608510">የኢሜይል መከላከያ</translation>
 <translation id="219985413780390209">እርስዎን እና መሣሪያዎን ከአደገኛ ጣቢያዎች ይጠብቃል</translation>
-<translation id="2200356397587687044">Kiwi ለመቀጠል ፈቃድ ያስፈልገዋል</translation>
+<translation id="2200356397587687044">KPB ለመቀጠል ፈቃድ ያስፈልገዋል</translation>
 <translation id="220138918934036434">አዝራር ደብቅ</translation>
 <translation id="2202898655984161076">አታሚዎችን መዘርዘር ላይ ችግር ነበር። አንዳንድ አታሚዎችዎ በተሳካ ሁኔታ <ph name="CLOUD_PRINT_NAME" /> ላይ አልተመዘገቡም።</translation>
 <translation id="2203682048752833055">በ<ph name="BEGIN_LINK" />አድራሻ አሞሌው<ph name="END_LINK" /> ላይ ሥራ ላይ የዋለው የፍለጋ ፕሮግራም</translation>
@@ -804,7 +804,7 @@
 <translation id="2209593327042758816">የመደርደሪያ ንጥል 2</translation>
 <translation id="2217501013957346740">አንድ ስም ይፍጠሩ -</translation>
 <translation id="2218019600945559112">መዳፊት እና መዳሰሻ</translation>
-<translation id="2218320521449013367">Kiwi ጎጂ ሶፍትዌር እያስወገደ ሳለ አንድ ስህተት ተከስቷል</translation>
+<translation id="2218320521449013367">KPB ጎጂ ሶፍትዌር እያስወገደ ሳለ አንድ ስህተት ተከስቷል</translation>
 <translation id="2218515861914035131">እንደ ስነጣ አልባ ጽሑፍ ለጥፍ</translation>
 <translation id="221872881068107022">በተቃራኒው ሸብልል</translation>
 <translation id="2220529011494928058">ችግር ሪፖርት አድርግ</translation>
@@ -876,7 +876,7 @@
 <translation id="2318817390901984578">የAndroid መተግበሪያዎችን ለመጠቀም የእርስዎን <ph name="DEVICE_TYPE" /> ኃይል ይሙሉ እና ያዘምኑ።</translation>
 <translation id="2318923050469484167">የአሁኑ ማንነት የማያሳውቅ ክፍለ-ጊዜ ብቻ (<ph name="EMBEDDING" />)</translation>
 <translation id="2322193970951063277">ራስጌዎች እና ግርጌዎች</translation>
-<translation id="2325650632570794183">ይህ ፋይል አይነት አይደገፍም። የዚህ አይነት ፋይል መክፈት የሚችል መተግበሪያን ለማግኘት እባክዎ Kiwi የድር ሱቁን ይጎብኙ።</translation>
+<translation id="2325650632570794183">ይህ ፋይል አይነት አይደገፍም። የዚህ አይነት ፋይል መክፈት የሚችል መተግበሪያን ለማግኘት እባክዎ KPB የድር ሱቁን ይጎብኙ።</translation>
 <translation id="2326606747676847821">ማንነት ወደማያሳውቅ ሁነታ ሂድ</translation>
 <translation id="2326931316514688470">&amp;መተግበሪያን ዳግም ጫን</translation>
 <translation id="2327492829706409234">መተግበሪያን አንቃ</translation>
@@ -1050,7 +1050,7 @@
 <translation id="258932246702879617"><ph name="BEGIN_BOLD" />ወደ የተግባር አሞሌ አያይዝ<ph name="END_BOLD" /> የሚለውን ይምረጡ</translation>
 <translation id="259421303766146093">አታጉላ</translation>
 <translation id="2594999711683503743">በGoogle ይፈልጉ ወይም ዩአርኤል ይተይቡ</translation>
-<translation id="2597852038534460976">Kiwi የግድግዳ ወረቀቶችን መድረስ አይችልም። እባክዎ ከአውታረ መረብ ጋር ያገናኙ።</translation>
+<translation id="2597852038534460976">KPB የግድግዳ ወረቀቶችን መድረስ አይችልም። እባክዎ ከአውታረ መረብ ጋር ያገናኙ።</translation>
 <translation id="2600115369439982409">ፋይሎች እና ፕሮግራሞች፦</translation>
 <translation id="2603115962224169880">ኮምፒውተርን አጽዳ</translation>
 <translation id="2603463522847370204">በ&amp;ማንነትን የማያሳውቅ መስኮት ክፈት</translation>
@@ -1079,7 +1079,7 @@
 <translation id="2633212996805280240">«<ph name="EXTENSION_NAME" />» ይወገድ?</translation>
 <translation id="263325223718984101"><ph name="PRODUCT_NAME" /> ጭነቱን ሊያጠናቅቅ አልቻለም፣ ግን ከዲስክ ምስሉ መሄዱን ይቀጥላል።</translation>
 <translation id="2635276683026132559">መፈረም</translation>
-<translation id="2636625531157955190">Kiwi ምስሉን ሊደርስበት አልቻለም።</translation>
+<translation id="2636625531157955190">KPB ምስሉን ሊደርስበት አልቻለም።</translation>
 <translation id="2638087589890736295">ስምረትን ለመጀመር የይለፍ ሐረግ ያስፈልጋል</translation>
 <translation id="2638286699381354126">አዘምን...</translation>
 <translation id="2638942478653899953">Google Drive ሊደረስበት አልተቻለም። እባክዎ <ph name="BEGIN_LINK" />ዘግተው ይውጡ<ph name="END_LINK" />ና ተመልሰው ይግቡ።</translation>
@@ -1129,7 +1129,7 @@
 <translation id="2693176596243495071">ውይ! አንድ ያልታወቀ ስህተት ተከስቷል። እባክዎ ቆይተው እንደገና ይሞክሩ ወይም ችግሩ ከቀጠለ አስተዳዳሪዎን ያነጋግሩ።</translation>
 <translation id="2694026874607847549">1 ኩኪ</translation>
 <translation id="2695749433451188613">የበይነመረብ ህትመት ፕሮቶኮል (ኤችቲቲፒኤስ)</translation>
-<translation id="270358213449696159">የGoogle Kiwi OS ውል ይዘቶች</translation>
+<translation id="270358213449696159">የGoogle KPB OS ውል ይዘቶች</translation>
 <translation id="2704184184447774363">Microsoft Document Signing</translation>
 <translation id="270516211545221798">የመዳሰሻ ሰሌዳ ፍጥነት</translation>
 <translation id="2705736684557713153">ወደ ማያ ገጹ ግርጌ ወደ ታች ይሸብልሉና ብቅ ካለ ቅጽበታዊ እንደ ሞደም መሰካትን ያብሩ። ብቅ ካላለ ሙሉ በሙሉ ተዘጋጅተዋል።</translation>
@@ -1243,8 +1243,8 @@
 <translation id="2871813825302180988">ይህ መለያ አስቀድሞ በዚህ መሣሪያ ላይ ስራ ላይ ውሏል።</translation>
 <translation id="2872353916818027657">ዋና ማሳያውን ቀይር</translation>
 <translation id="287286579981869940"><ph name="PROVIDER_NAME" /> አክል...</translation>
-<translation id="2874343608108773609">የእርስዎን የይለፍ ቃላት በሁሉም መሣሪያዎችዎ ላይ ለማግኘት ወደ Kiwi ይግቡ።</translation>
-<translation id="2875698561019555027">(Kiwi ስህተት ገጾች)</translation>
+<translation id="2874343608108773609">የእርስዎን የይለፍ ቃላት በሁሉም መሣሪያዎችዎ ላይ ለማግኘት ወደ KPB ይግቡ።</translation>
+<translation id="2875698561019555027">(KPB ስህተት ገጾች)</translation>
 <translation id="288042212351694283">ሁለገብ 2ኛ ደረጃ መሣሪያዎችዎን ይደርስባቸዋል</translation>
 <translation id="2881966438216424900">ለመጨረሻ ጊዜ የተደረሰው፦</translation>
 <translation id="2882943222317434580"><ph name="IDS_SHORT_PRODUCT_NAME" /> ዳግም ይጀምርና ለጊዜው ዳግም ይዘጋጃል።</translation>
@@ -1372,7 +1372,7 @@
 <translation id="3071624960923923138">አዲስ ትር ለመክፈት እዚህ ጠቅ ማድረግ ይችላሉ</translation>
 <translation id="3074037959626057712">በመለያ ገብተው ስምረትን አብርተዋል</translation>
 <translation id="3075874217500066906">የPowerwash ሂደቱን ለመጀመር ዳግም ማስጀመር ያስፈልጋል። ዳግም ከተጀመረ በኋላ መቀጠል እንደሚፈልጉ እንዲያረጋግጡ ይጠየቃሉ።</translation>
-<translation id="3076677906922146425">ማንም ሰው ግለሰብን ወደ Kiwi እንዲያክል ይፍቀዱ</translation>
+<translation id="3076677906922146425">ማንም ሰው ግለሰብን ወደ KPB እንዲያክል ይፍቀዱ</translation>
 <translation id="3076909148546628648"><ph name="DOWNLOAD_RECEIVED" />/<ph name="DOWNLOAD_TOTAL" /></translation>
 <translation id="3077734595579995578">shift</translation>
 <translation id="3078461028045006476">ለ<ph name="EXTENSION_NAME" /> አጋራ</translation>
@@ -1383,7 +1383,7 @@
 <translation id="3083193146044397360">ግላዊነትዎን ለመጠበቅ ሲባል ለጊዜው ታግዷል</translation>
 <translation id="308330327687243295">https://mail.google.com/mail/?extsrc=mailto&amp;url=%s</translation>
 <translation id="3084548735795614657">ለመጫን ጣል ያድርጉ</translation>
-<translation id="3084771660770137092">ወይም Kiwi ማህደረ ትውስታ አልቆበታል ወይም የድረ-ገጹ ሂደት በሌላ ምክንያት ተቋርጧል። ለመቀጠል ዳግም ይጫኑ ወይም ወደ ሌላ ገጽ ይሂዱ።</translation>
+<translation id="3084771660770137092">ወይም KPB ማህደረ ትውስታ አልቆበታል ወይም የድረ-ገጹ ሂደት በሌላ ምክንያት ተቋርጧል። ለመቀጠል ዳግም ይጫኑ ወይም ወደ ሌላ ገጽ ይሂዱ።</translation>
 <translation id="3085412380278336437">ጣቢያ የእርስዎን ካሜራ መጠቀም ይችላል</translation>
 <translation id="3085752524577180175">የSOCKS አስተናጋጅ</translation>
 <translation id="3088325635286126843">እንደገና &amp;ሰይም...</translation>
@@ -1420,7 +1420,7 @@
 <translation id="3143695347784622594">የስርዓት ውሂብን ይላኩ። የምርመራ እና የመሣሪያ እና የመተግበሪያ አጠቃቀም ውሂብ በራስ-ሰር ወደ Google ይላኩ። ይህን በማንኛውም ጊዜ በመሣሪያዎ <ph name="BEGIN_LINK1" />ቅንብሮች<ph name="END_LINK1" /> ውስጥ መቀየር ይችላሉ። ተጨማሪ የድር እና መተግበሪያ እንቅስቃሴን ካበሩ ይህ መረጃ በየእኔ እንቅስቃሴ ውስጥ ማቀናበር እንዲችሉ በመለያዎ ላይ ይከማቻል። <ph name="BEGIN_LINK2" />የበለጠ ለመረዳት<ph name="END_LINK2" /></translation>
 <translation id="3144126448740580210">ተከናውኗል</translation>
 <translation id="3144647712221361880">አገናኙን ክፈት እንደ</translation>
-<translation id="3149510190863420837">Kiwi መተግበሪያዎች</translation>
+<translation id="3149510190863420837">KPB መተግበሪያዎች</translation>
 <translation id="3150927491400159470">ከባድ ዳግም መጫን</translation>
 <translation id="315116470104423982">የተንቀሳቃሽ ስልክ ውሂብ</translation>
 <translation id="3151539355209957474">የሚጀምርበት ጊዜ</translation>
@@ -1497,7 +1497,7 @@
 <translation id="3280237271814976245">አስቀምጥ &amp;እንደ…</translation>
 <translation id="3280243678470289153">በKiwi ውስጥ ይቆዩ</translation>
 <translation id="3280431534455935878">በማዘጋጀት ላይ</translation>
-<translation id="3282568296779691940">Kiwi ውስጥ ይግቡ</translation>
+<translation id="3282568296779691940">KPB ውስጥ ይግቡ</translation>
 <translation id="3285322247471302225">አዲስ &amp;ትር</translation>
 <translation id="3288047731229977326">በገንቢ ሁኔታ የሚሄዱ ጥያዎች የእርስዎን ኮምፒውተር ሊጎዱ ይችላሉ። እርስዎ ገንቢ ካልሆኑ ደህንነትዎን ለማረገገጥ በገንቢ ሁኔታ የሚሄዱ ቅጥያዎችን ማሰናከል አለብዎ።</translation>
 <translation id="3289856944988573801">ዝማኔዎች ካሉ ለማየት እባክዎ Ethernet ወይም Wi-Fi ይጠቀሙ።</translation>
@@ -1677,7 +1677,7 @@
 <translation id="3547495624659668105">የPRL ስሪት</translation>
 <translation id="3547954654003013442">የተኪ ቅንብሮች</translation>
 <translation id="3549797760399244642">ወደ drive.google.com ይሂዱ...</translation>
-<translation id="3550915441744863158">Kiwi በራስ-ሰር ይዘመናል፣ ስለዚህ ሁልጊዜ አዲሱ ስሪት ይኖርዎታል</translation>
+<translation id="3550915441744863158">KPB በራስ-ሰር ይዘመናል፣ ስለዚህ ሁልጊዜ አዲሱ ስሪት ይኖርዎታል</translation>
 <translation id="3551320343578183772">ትር ዝጋ</translation>
 <translation id="3552780134252864554">በመውጫ ላይ ጸድቷል</translation>
 <translation id="3555812735919707620">ቅጥያ አስወገድ</translation>
@@ -1754,7 +1754,7 @@
 <translation id="3660234220361471169">የማይታመን</translation>
 <translation id="3661054927247347545">በመለያ መግቢያ የእውቅና ማረጋገጫ የሚሠራ አይደለም፣ መስኮት በ<ph name="MINUTES" /> : <ph name="SECONDS" /> ውስጥ ይዘጋል</translation>
 <translation id="3664511988987167893">የቅጥያ አዶ</translation>
-<translation id="3665589677786828986">Kiwi አንዳንድ ቅንብሮችዎ በሌላ ፕሮግራም መበላሸቱን አስተውሏል፣ እና ወደ የመጀመሪያዎቹ ነባሪዎቻቸው መልሷቸዋል።</translation>
+<translation id="3665589677786828986">KPB አንዳንድ ቅንብሮችዎ በሌላ ፕሮግራም መበላሸቱን አስተውሏል፣ እና ወደ የመጀመሪያዎቹ ነባሪዎቻቸው መልሷቸዋል።</translation>
 <translation id="3665842570601375360">ደህንነት፦</translation>
 <translation id="3668570675727296296">የቋንቋ ቅንብሮች</translation>
 <translation id="3668823961463113931">ተቆጣጣሪዎች</translation>
@@ -1856,7 +1856,7 @@
 <translation id="3811494700605067549">1 ፋይል ተመርጧል</translation>
 <translation id="381202950560906753">ሌላ አክል</translation>
 <translation id="3812525830114410218">መጥፎ የእውቅና ማረጋገጫ</translation>
-<translation id="3813296892522778813">የሚፈልጉትን ነገር ማግኘት ካልቻሉ ወደ <ph name="BEGIN_LINK_CHROMIUM" />Google Kiwi እገዛ<ph name="END_LINK_CHROMIUM" /> ይሂዱ</translation>
+<translation id="3813296892522778813">የሚፈልጉትን ነገር ማግኘት ካልቻሉ ወደ <ph name="BEGIN_LINK_CHROMIUM" />Google KPB እገዛ<ph name="END_LINK_CHROMIUM" /> ይሂዱ</translation>
 <translation id="3817579325494460411">አልቀረበም</translation>
 <translation id="3819007103695653773">ሁሉም ጣቢያዎች የግፋ መልዕክቶችን እንዲልክ ፍቀድ</translation>
 <translation id="3819752733757735746">የማብሪያ/ማጥፊያ መዳረሻ (ኮምፒውተሩን በአንድ ወይም ሁለት ማብሪያ ማጥፊያዎች ይቆጣጠሩ)</translation>
@@ -2003,7 +2003,7 @@
 <translation id="4035758313003622889">&amp;ተግባር አስተዳዳሪ</translation>
 <translation id="4037084878352560732">ፈረስ</translation>
 <translation id="4037889604535939429">ሰውን ያርትዑ</translation>
-<translation id="4042264909745389898">የGoogle Kiwi OS ውል</translation>
+<translation id="4042264909745389898">የGoogle KPB OS ውል</translation>
 <translation id="4042863763121826131">{NUM_PAGES,plural, =1{ከገጽ ውጣ}one{ከገጾች ውጣ}other{ከገጾች ውጣ}}</translation>
 <translation id="4044612648082411741">የእርስዎን የዕውቅና ማረጋገጫ ይለፍ ቃል ያስገቡ</translation>
 <translation id="404493185430269859">ነባሪ የፍለጋ ፕሮግራም</translation>
@@ -2246,7 +2246,7 @@
 <translation id="4478664379124702289">አገ&amp;ናኝ አስቀምጥ እንደ…</translation>
 <translation id="4479424953165245642">የኪዮስክ መተግበሪያዎችን አቀናብር</translation>
 <translation id="4479639480957787382">ኢተርኔት</translation>
-<translation id="4480590691557335796">Kiwi በእርስዎ ኮምፒውተር ላይ ጎጂ ሶፍትዌርን ማግኘት እና ማስወገድ ይችላል</translation>
+<translation id="4480590691557335796">KPB በእርስዎ ኮምፒውተር ላይ ጎጂ ሶፍትዌርን ማግኘት እና ማስወገድ ይችላል</translation>
 <translation id="4481530544597605423">ያልተጣመሩ መሣሪያዎች</translation>
 <translation id="4482194545587547824">Google ፍለጋን እና ሌሎች የGoogle አገልግሎቶችን ግላዊነት ለማላበስ የአሰሳ ታሪክዎን ሊጠቀም ይችላል</translation>
 <translation id="4495419450179050807">በዚህ ገጽ ላይ አታሳይ</translation>
@@ -2261,7 +2261,7 @@
 <translation id="4514542542275172126">አዲስ ክትትል የሚደረግበት ተጠቃሚ ያዋቅሩ</translation>
 <translation id="4514610446763173167">ቪዲዮን ለማጫወት ወይም ባለበት ለማቆም ቀያይር</translation>
 <translation id="451515744433878153">አስወግድ</translation>
-<translation id="4518677423782794009">Kiwi ተበላሽቷል፣  ያልተለመዱ የጅማሬ ገጾች ወይም የመሣሪያ አሞሌዎች፣ ሊያስወግዱዋቸው የማይችሉዋቸው ወይም በሌላ መልኩ የእርስዎን የአሰሳ ተሞክሮ የሚለውጡ ያልተጠበቁ ማስታወቂያዎች እያሳየ ነው? የKiwi ማጽጃ መሳሪያ በማስኬድ ችግሩን ሊያስተካክሉት ይችሉ ይሆናል።</translation>
+<translation id="4518677423782794009">KPB ተበላሽቷል፣  ያልተለመዱ የጅማሬ ገጾች ወይም የመሣሪያ አሞሌዎች፣ ሊያስወግዱዋቸው የማይችሉዋቸው ወይም በሌላ መልኩ የእርስዎን የአሰሳ ተሞክሮ የሚለውጡ ያልተጠበቁ ማስታወቂያዎች እያሳየ ነው? የKiwi ማጽጃ መሳሪያ በማስኬድ ችግሩን ሊያስተካክሉት ይችሉ ይሆናል።</translation>
 <translation id="4518928191942891293">መያዣን በTermina VM ውስጥ በመጀመር ላይ።</translation>
 <translation id="4520385623207007473">ጥቅም ላይ የዋሉ ኩኪዎች</translation>
 <translation id="452039078290142656">ከ<ph name="VENDOR_NAME" /> የመጡ ያልታወቁ መሣሪያዎች</translation>
@@ -2281,11 +2281,11 @@
 <translation id="4545028762441890696">ለማንቃት አዲሶቹን ፍቃዶች ይቀበሉ፦</translation>
 <translation id="454547174531670764">ከሌላ መለያ ጋር ያስምሩ</translation>
 <translation id="4545759655004063573">በቂ ባልሆኑ ፍቃዶች ምክንያት ማስቀመጥ አልተቻለም። እባክዎ ሌላ ቦታ ላይ ያስቀምጡ።</translation>
-<translation id="4546308221697447294">ከGoogle Kiwi ጋር በፍጥነት ያስሱ</translation>
+<translation id="4546308221697447294">ከGoogle KPB ጋር በፍጥነት ያስሱ</translation>
 <translation id="4547659257713117923">ከሌሎች መሣሪያዎች ምንም ትሮች የሉም</translation>
 <translation id="4547672827276975204">በራስ-ሰር አቀናብር</translation>
 <translation id="4547992677060857254">የመረጡት አቃፊ ሊጎዱ የሚችሉ ፋይሎች አሉት። እርግጠኛ ነዎት ዘላቂ የዚህ አቃፊ የመጻፍ መዳረሻ ለ«$1» መስጠት ይፈልጋሉ?</translation>
-<translation id="4552031286893852992">ይህ ጣቢያ ጣልቃ ገቢ ማስታወቂያዎችን የማሳየት አዝማሚያ ስላለው Kiwi በዚህ ጣቢያ ላይ ማስታወቂያዎችን አግዷል።</translation>
+<translation id="4552031286893852992">ይህ ጣቢያ ጣልቃ ገቢ ማስታወቂያዎችን የማሳየት አዝማሚያ ስላለው KPB በዚህ ጣቢያ ላይ ማስታወቂያዎችን አግዷል።</translation>
 <translation id="4552089082226364758">ብልጭታ</translation>
 <translation id="4552678318981539154">ተጨማሪ ማከማቻ ይግዙ</translation>
 <translation id="4554591392113183336">ውጫዊ ቅጥያው ከነባሩ ጋር ተመሳሳይ ወይም ያነሰ ስሪት ነው።</translation>
@@ -2341,7 +2341,7 @@
 <translation id="4634771451598206121">እንደገና ይግቡ...</translation>
 <translation id="4635398712689569051"><ph name="PAGE_NAME" /> ለእንግዳ ተጠቃሚዎች አይገኝም።</translation>
 <translation id="4640525840053037973">በGoogle መለያዎ ይግቡ</translation>
-<translation id="4641539339823703554">Kiwi የስርዓት ጊዜ ማዘጋጀት አልቻለም። እባክዎ ከዚህ በታች ያለውን ጊዜ ይፈትሹና አስፈላጊ ከሆነ ያስተካክሉ።</translation>
+<translation id="4641539339823703554">KPB የስርዓት ጊዜ ማዘጋጀት አልቻለም። እባክዎ ከዚህ በታች ያለውን ጊዜ ይፈትሹና አስፈላጊ ከሆነ ያስተካክሉ።</translation>
 <translation id="4643612240819915418">&amp;ቪዲዮ በአዲስ ትር ክፈት</translation>
 <translation id="4644818355646995778">በማውረድ ላይ፣ <ph name="PERCENT_REMAINING" /></translation>
 <translation id="4645676300727003670">&amp;አስቀምጥ</translation>
@@ -2349,7 +2349,7 @@
 <translation id="4647697156028544508">እባክዎ የ«<ph name="DEVICE_NAME" />»ን ፒን ያስገቡ፦</translation>
 <translation id="4648491805942548247">በቂ ያልሆኑ ፍቃዶች</translation>
 <translation id="4648499713050786492">አንድ ሰው ከማከልዎ በፊት እባክዎ የእርስዎን መገለጫ ይክፈቱ።</translation>
-<translation id="465499440663162826">ወደ Kiwi የድር መደብር ማገናኘት አልተቻለም።</translation>
+<translation id="465499440663162826">ወደ KPB የድር መደብር ማገናኘት አልተቻለም።</translation>
 <translation id="4656293982926141856">ይህ ኮምፒውተር</translation>
 <translation id="4658312088164718891">Smart Lockን ለማብራት የእርስዎን የይለፍ ቃል ያስገቡ። በሚቀጥለው ጊዜ የእርስዎ ስልክ የእርስዎን <ph name="DEVICE_TYPE" /> ይከፍተዋል። በቅንብሮች ውስጥ Smart Lockን ያጥፉት።</translation>
 <translation id="4660476621274971848">የተጠበቀው ስሪት «<ph name="EXPECTED_VERSION" />» ነበር፣ ግን ስሪቱ «<ph name="NEW_ID" />» ነበር</translation>
@@ -2357,7 +2357,7 @@
 <translation id="4663373278480897665">ካሜራ ተፈቅዷል</translation>
 <translation id="4664482161435122549">PKCS #12 የመላክ ስህተት</translation>
 <translation id="4665014895760275686">አምራች</translation>
-<translation id="466506872045057845">Kiwi ፈቃዶችን ወደ ነባሪዎቻቸው ዳግም ያቀናብራል</translation>
+<translation id="466506872045057845">KPB ፈቃዶችን ወደ ነባሪዎቻቸው ዳግም ያቀናብራል</translation>
 <translation id="4667176955651319626">የሶስተኛ ወገን ኩኪዎች እና የጣቢያ ውሂብ</translation>
 <translation id="4668721319092543482"><ph name="PLUGIN_NAME" />ን ለማንቃት ጠቅ ያድርጉ</translation>
 <translation id="4669606053856530811">እነዚህ ንጥሎች ለእነሱ ካልተጋሩ በስተቀር የ«<ph name="SOURCE_NAME" />» አባላት መዳረሻ ያጣሉ።</translation>
@@ -2387,7 +2387,7 @@
 <translation id="4708849949179781599"><ph name="PRODUCT_NAME" />ን አቋርጥ</translation>
 <translation id="4710251968215868702">በሚጎበኟቸው ጣቢያዎች ላይ ያሉ ይዘቶችን እና የአሳሽ እንቅስቃሴንና መስተጋብሮችን ይጠቀማል።</translation>
 <translation id="4711638718396952945">ቅንብሮችን ወደነበሩበት መልስ</translation>
-<translation id="4713544552769165154">ይህ ፋይል የMacintosh ሶፍትዌር ለሚጠቀም ኮምፒውተር ነው የተቀየሰው። ይሄ Kiwi OS ከሚያሄደው መሣሪያዎ ጋር ተኳሃኝ አይደለም። ተገቢ ምትክ መተግበሪያ ለማግኘት እባክዎ <ph name="BEGIN_LINK" />የKiwi ድር መደብሩን<ph name="END_LINK" /> ይፈልጉ።<ph name="BEGIN_LINK_HELP" />ተጨማሪ ለመረዳት<ph name="END_LINK_HELP" /></translation>
+<translation id="4713544552769165154">ይህ ፋይል የMacintosh ሶፍትዌር ለሚጠቀም ኮምፒውተር ነው የተቀየሰው። ይሄ KPB OS ከሚያሄደው መሣሪያዎ ጋር ተኳሃኝ አይደለም። ተገቢ ምትክ መተግበሪያ ለማግኘት እባክዎ <ph name="BEGIN_LINK" />የKiwi ድር መደብሩን<ph name="END_LINK" /> ይፈልጉ።<ph name="BEGIN_LINK_HELP" />ተጨማሪ ለመረዳት<ph name="END_LINK_HELP" /></translation>
 <translation id="4714531393479055912"><ph name="PRODUCT_NAME" /> አሁን የይለፍ ቃላትዎን ሊያመሳስል ይችላል።</translation>
 <translation id="4715553623069266137">በጣም አጭር (0.8 ሴ)</translation>
 <translation id="4716483597559580346">Powerwash ለደህንነት ታክሏል</translation>
@@ -2456,7 +2456,7 @@
 <translation id="4829768588131278040">ፒን ያዋቅሩ</translation>
 <translation id="4830502475412647084">የስርዓተ ክወና ዝማኔን በመጫን ላይ</translation>
 <translation id="4830573902900904548">የእርስዎ <ph name="DEVICE_TYPE" /> <ph name="NETWORK_NAME" />ን ተጠቅሞ ከበይነመረብ ጋር መገናኘት አልቻልም። እባክዎ ሌላ አውታረ መረብ ይምረጡ። <ph name="LEARN_MORE_LINK_START" />ተጨማሪ ለመረዳት<ph name="LEARN_MORE_LINK_END" /></translation>
-<translation id="4835385943915508971">Kiwi የተጠየቀው ግብዓት መዳረሻ የለውም።</translation>
+<translation id="4835385943915508971">KPB የተጠየቀው ግብዓት መዳረሻ የለውም።</translation>
 <translation id="4835836146030131423">በመግባት ጊዜ ስህተት።</translation>
 <translation id="4837926214103741331">ይህን መሣሪያ ለመጠቀም ስልጣን አልተሰጠዎትም። የመግባት ፍቃድ ለማግኘት የመሣሪያውን ባለቤት ያነጋግሩ።</translation>
 <translation id="4837952862063191349">የእርስዎን የአካባቢ ውሂብ ለማስከፈት እና እንደነበረ ለመመለስ፣ የእርስዎን አሮጌ የ<ph name="DEVICE_TYPE" /> የይለፍ ቃል እባክዎ ያስገቡ።</translation>
@@ -2925,7 +2925,7 @@
 <translation id="5511823366942919280">እርግጠኛ ነዎት ይህንን እንደ «Shark» አድርገው ማዋቀር ይፈልጋሉ?</translation>
 <translation id="5512653252560939721">የተጠቃሚ እውቅና ማረጋገጫ በሃርድዌር የታዘገ መሆን አለበት።</translation>
 <translation id="5513242761114685513">የአውድ ምናሌ</translation>
-<translation id="5516183516694518900">የእርስዎን ዕልባቶች፣ ታሪክ፣ የይለፍ ቃላት እና ሌሎች ቅንብሮችን በሁሉም መሣሪያዎችዎ ላይ ለማግኘት በGoogle መለያዎ ወደ Kiwi ይግቡ።</translation>
+<translation id="5516183516694518900">የእርስዎን ዕልባቶች፣ ታሪክ፣ የይለፍ ቃላት እና ሌሎች ቅንብሮችን በሁሉም መሣሪያዎችዎ ላይ ለማግኘት በGoogle መለያዎ ወደ KPB ይግቡ።</translation>
 <translation id="551752069230578406">አታሚውን ወደ የእርስዎ መለያ በማከል ላይ - ይሄ ትንሽ ጊዜ ሊወስድ ይችላል...</translation>
 <translation id="5518219166343146486">አንድ ጣቢያ ወደ ቅንጥብ ሰሌዳ የተቀዱትን ጽሑፍ እና ምስሎች መመልከት ሲፈልግ ይጠይቅ</translation>
 <translation id="5518584115117143805">የኢሜይል ምስጠራ ሰርቲፊኬት</translation>
@@ -3020,7 +3020,7 @@
 <translation id="563535393368633106">ከመድረስ በፊት ጠይቅ (የሚመከር)</translation>
 <translation id="5636996382092289526"><ph name="NETWORK_ID" />ን ለመጠቀም መጀመሪያ <ph name="LINK_START" />የአውታረ መረቡ መግቢያ ገጹን መጎብኘት<ph name="LINK_END" /> አለብዎት፣ ይህም በጥቂት ሰከንዶች ውስጥ በራስ-ሰር ይከፈታል። ካልሆነ አውታረ መረቡ ስራ ላይ ሊውል አይችልም።</translation>
 <translation id="5637476008227280525">የተንቀሳቃሽ ስልክ ውሂብን አንቃ</translation>
-<translation id="5638309510554459422">ቅጥያዎችን እና ገጽታዎችን በ<ph name="BEGIN_LINK" />Kiwi ድር መደብር<ph name="END_LINK" /> ላይ ያግኙ</translation>
+<translation id="5638309510554459422">ቅጥያዎችን እና ገጽታዎችን በ<ph name="BEGIN_LINK" />KPB ድር መደብር<ph name="END_LINK" /> ላይ ያግኙ</translation>
 <translation id="5638497698949808140">ከ<ph name="HOURS" /> ሰዓቶች በፊት ተዘምኗል</translation>
 <translation id="5639549361331209298">ይህን ገጽ ዳግም ይጫኑ፣ ተጨማሪ አማራጮችን ለማየት ይያዙት</translation>
 <translation id="5642508497713047">CRL ፈራሚ</translation>
@@ -3154,7 +3154,7 @@
 <translation id="5848924408752252705">ወደ ኋላ ለመመለስ መታ ያድርጉ።</translation>
 <translation id="5849212445710944278">አስቀድሞ ታክሏል</translation>
 <translation id="5849570051105887917">የመነሻ ገጽ አቅራቢ ኮድ</translation>
-<translation id="5850516540536751549">ይህ የፋይል ዓይነት አይደገፍም። እባክዎ የዚህ አይነት ፋይል መክፈት የሚችል መተግበሪያ ለማግኘት <ph name="BEGIN_LINK" />Kiwi የድር መደብር<ph name="END_LINK" />ን ይጎብኙ። <ph name="BEGIN_LINK_HELP" />ተጨማሪ ለመረዳት<ph name="END_LINK_HELP" /></translation>
+<translation id="5850516540536751549">ይህ የፋይል ዓይነት አይደገፍም። እባክዎ የዚህ አይነት ፋይል መክፈት የሚችል መተግበሪያ ለማግኘት <ph name="BEGIN_LINK" />KPB የድር መደብር<ph name="END_LINK" />ን ይጎብኙ። <ph name="BEGIN_LINK_HELP" />ተጨማሪ ለመረዳት<ph name="END_LINK_HELP" /></translation>
 <translation id="5851063901794976166">እዚህ ላይ ምንም የሚታይ ነገር የለም...</translation>
 <translation id="5851868085455377790">ሰጪው</translation>
 <translation id="5852112051279473187">ውይ!  ይህን መሣሪያ በመመዝገብ ላይ ሳለ የሆነ ስህተት ተፈጥሯል።  እባክዎ እንደገና ይሞክሩ ወይም የድጋፍ ተወካይዎን ያግኙ።</translation>
@@ -3363,7 +3363,7 @@
 <translation id="6163522313638838258">ሁሉንም ዘርጋ...</translation>
 <translation id="6164005077879661055">ይህ ክትትል የሚደረግበት ተጠቃሚ አንዴ ከተወገደ በኋላ ሁሉም ከዚህ ክትትል የሚደረግበት ተጠቃሚ ጋር የተጎዳኙ ፋይሎች እና አካባቢያዊ ውሂብ እስከመጨረሻው ይሰረዛሉ። አስተዳዳሪው የዚህ ክትትል የሚደረግበት ተጠቃሚ የጎበኛቸው ድር ጣቢያዎች እና ቅንብሮች <ph name="MANAGEMENT_URL" /> ላይ ሊያዩት ይችላሉ።</translation>
 <translation id="6165508094623778733">ተጨማሪ ለመረዳት</translation>
-<translation id="6166185671393271715">የይለፍ ቃላትን ወደ Kiwi ያስመጡ</translation>
+<translation id="6166185671393271715">የይለፍ ቃላትን ወደ KPB ያስመጡ</translation>
 <translation id="6169040057125497443">እባክዎ ማይክሮፎንዎን ይፈትሹ።</translation>
 <translation id="6169666352732958425">ዴስክቶፕን cast ማድረግ አልተቻለም።</translation>
 <translation id="6171948306033499786">ማተምን ባለበት አቁም</translation>
@@ -3389,7 +3389,7 @@
 <translation id="6212752530110374741">የኢሜይል አገናኝ</translation>
 <translation id="6220413761270491930">ቅጥያ መጫን ላይ ስህተት</translation>
 <translation id="6223447490656896591">ብጁ ምስል፦</translation>
-<translation id="62243461820985415">Kiwi ይህንን ልጣፍ ማውረድ አይችልም።</translation>
+<translation id="62243461820985415">KPB ይህንን ልጣፍ ማውረድ አይችልም።</translation>
 <translation id="6224481128663248237">ቅርጸት መስራት በተሳካ ሁኔታ ተጠናቅቋል!</translation>
 <translation id="6225475702458870625">የውሂብ ግንኙነት ከእርስዎ <ph name="PHONE_NAME" /> ይገኛል</translation>
 <translation id="6226777517901268232">የግል ቁልፍ ፋይል (ከተፈለገ)</translation>
@@ -3588,7 +3588,7 @@
 <translation id="6508261954199872201">መተግበሪያ፦ <ph name="APP_NAME" /></translation>
 <translation id="6509207748479174212">የማህደረ መረጃ ፈቃድ</translation>
 <translation id="6510568984200103950">ያነሱ ቅንብሮች</translation>
-<translation id="6513247462497316522">ከሌላ አውታረ መረብ ጋር ካልተገናኙ Google Kiwi የተንቀሳቃሽ ውሂብን ይጠቀማል።</translation>
+<translation id="6513247462497316522">ከሌላ አውታረ መረብ ጋር ካልተገናኙ Google KPB የተንቀሳቃሽ ውሂብን ይጠቀማል።</translation>
 <translation id="6514010653036109809">የሚገኝ መሣሪያ፦</translation>
 <translation id="6514565641373682518">ይህ ገጽ የመዳፊት ጠቋሚዎን አሰናክሏል።</translation>
 <translation id="6518014396551869914">ምስል ቅ&amp;ዳ</translation>
@@ -3690,7 +3690,7 @@
 <translation id="6657585470893396449">የይለፍ ቃል፦</translation>
 <translation id="6659213950629089752">ይህ ገጽ በ«<ph name="NAME" />» ቅጥያው ነው የጎላው</translation>
 <translation id="6659594942844771486">ትር</translation>
-<translation id="6664237456442406323">የአጋጣሚ ነገር ሆኖ ኮምፒውተርዎ በተበላሸ የሃርድዌር መታወቂያ ነው የተዋቀረው። ይሄ Kiwi ስርዓተ ክወና በቅርብ ጊዜዎቹ የደህንነት ጥገናዎች እንዳይዘመን ያግደዋል፣ እና የእርስዎ ኮምፒውተር <ph name="BEGIN_BOLD" />ለተንኮል-አዘል ጥቃቶች የተጋለጠ ሊሆን ይችላል<ph name="END_BOLD" />።</translation>
+<translation id="6664237456442406323">የአጋጣሚ ነገር ሆኖ ኮምፒውተርዎ በተበላሸ የሃርድዌር መታወቂያ ነው የተዋቀረው። ይሄ KPB ስርዓተ ክወና በቅርብ ጊዜዎቹ የደህንነት ጥገናዎች እንዳይዘመን ያግደዋል፣ እና የእርስዎ ኮምፒውተር <ph name="BEGIN_BOLD" />ለተንኮል-አዘል ጥቃቶች የተጋለጠ ሊሆን ይችላል<ph name="END_BOLD" />።</translation>
 <translation id="6664774537677393800">የእርስዎን መገለጫ በመክፈት ላይ የሆነ ችግር ተፈጥሯል። እባክዎ ዘግተው ይውጡና እንደገና ተመልሰው ይግቡ።</translation>
 <translation id="6670647982128220776">ከስምረት እና ግላዊነት ማላበስ ጋር የሚዛመዱ ባህሪያት አሁን በአንድ ነጠላ ቁጥጥር ስር ናቸው። ይህን ማብራት የአሁኖቹን ቅንብሮችዎ ሊቀይረው ይችላል።</translation>
 <translation id="6673391612973410118"><ph name="PRINTER_MAKE_OR_MODEL" /> (ዩኤስቢ)</translation>
@@ -3788,7 +3788,7 @@
 <translation id="6817174620439930047">አንድ ጣቢያ የMIDI መሣሪያዎችን ለመድረስ ለሚመለከተው ሥርዓት ብቻ የተወሰኑ መልእክቶችን ለመጠቀም ሲፈልግ ጠይቅ (የሚመከር)</translation>
 <translation id="6820687829547641339">Gzip የታመቀ የtar ማህደር</translation>
 <translation id="682123305478866682">ዴስክቶፕ ውሰድ</translation>
-<translation id="6823506025919456619">የእርስዎን መሣሪያዎች ለማየት በመለያ ወደ የእርስዎ Kiwi መግባት አለብዎት</translation>
+<translation id="6823506025919456619">የእርስዎን መሣሪያዎች ለማየት በመለያ ወደ የእርስዎ KPB መግባት አለብዎት</translation>
 <translation id="6824564591481349393">&amp;ኢሜይል አድራሻ ቅዳ</translation>
 <translation id="6825184156888454064">በስም ደርድር</translation>
 <translation id="6827236167376090743">ላሞቹ ቤት እስኪገቡ ድረስ ይህ ቪዲዮ መጫወቱን ይቀጥላል።</translation>
@@ -3874,7 +3874,7 @@
 <translation id="6976108581241006975">የጃቫስክሪፕት ኮንሶል</translation>
 <translation id="6977381486153291903">የጽኑ ትዕዛዝ ክለሳ</translation>
 <translation id="6978121630131642226">የፍለጋ ፕሮግራሞች</translation>
-<translation id="6978611942794658017">ይህ ፋይል የተሰራው የWindows ሶፍትዌር ለሚጠቀም ተኮ ነው። ይሄ Kiwi OSን ከሚያሄደው መሣሪያዎ ጋር ተኳሃኝ አይደለም። አግባብ የሆነውን ተተኪ መተግበሪያ ለማግኘት እባክዎ የKiwi ድር መደብሩን ይፈልጉ።</translation>
+<translation id="6978611942794658017">ይህ ፋይል የተሰራው የWindows ሶፍትዌር ለሚጠቀም ተኮ ነው። ይሄ KPB OSን ከሚያሄደው መሣሪያዎ ጋር ተኳሃኝ አይደለም። አግባብ የሆነውን ተተኪ መተግበሪያ ለማግኘት እባክዎ የKiwi ድር መደብሩን ይፈልጉ።</translation>
 <translation id="6979158407327259162">Google Drive</translation>
 <translation id="6979737339423435258">የምንጊዜም</translation>
 <translation id="6980462514016882061">Google ፍለጋን፣ ማስታወቂያዎችን እና ሌሎች የGoogle አገልግሎቶችን ግላዊነት ለማላበስ ሲል የአሰሳ ታሪክዎን ሊጠቀም ይችላል።</translation>
@@ -3953,7 +3953,7 @@
 <translation id="7081952801286122383">ማንነትን በማያሳውቅ ሁኔታ ላይ ነዎት</translation>
 <translation id="708278670402572152">መቃኘትን ለማንቃት ግንኙነት ያቋርጡ</translation>
 <translation id="7084192839369222683">አስፈላጊ ይዘትን ብቻ አሂድ</translation>
-<translation id="7085389578340536476">Kiwi ኦዲዮን እንዲቀርጽ ይፈቀድለት?</translation>
+<translation id="7085389578340536476">KPB ኦዲዮን እንዲቀርጽ ይፈቀድለት?</translation>
 <translation id="7088434364990739311">የዝማኔ ፍተሻ መጀመር አልተሳካም (የስህተት ኮድ <ph name="ERROR" />)።</translation>
 <translation id="7088561041432335295">የዚህ ማህደር ሰሪ - በፋይሎች መተግበሪያው ውስጥ የዚፕ ፋይሎችን ይክፈቱ እና ይጠቅልሉ።</translation>
 <translation id="7088674813905715446">ይህ መሳሪያ በአስተዳዳሪው ወዳልተከፋፈለ ሁኔታ ተቀምጧል። ለምዝገባ ለማንቃት፣ እባክዎ አስተዳዳሪዎ እየተካሄደ ወዳለ ሁኔታ እንዲለውጠው ያድርጉ።</translation>
@@ -3999,7 +3999,7 @@
 <translation id="7152478047064750137">ይህ ቅጥያ ምንም ልዩ ፈቃዶችን አይፈልግም</translation>
 <translation id="7154130902455071009">የመጀመሪያ ገጽዎን ወደሚከተለው ይቀይሩ፦ <ph name="START_PAGE" /></translation>
 <translation id="7155171745945906037">ነባር ፎቶ ከካሜራ ወይም ከፋይል</translation>
-<translation id="7156235233373189579">ይህ ፋይል የWindows ሶፍትዌር ለሚጠቀም ተኮ ነው የተቀየሰው። ይሄ Kiwi OSን ከሚያሄደው መሣሪያዎ ጋር ተኳሃኝ አይደለም። ተገቢ የሆነ ምትክ መተግበሪያ ለማግኘት እባክዎ <ph name="BEGIN_LINK" />የKiwi ድር መደብሩን<ph name="END_LINK" /> ይፈልጉ።<ph name="BEGIN_LINK_HELP" />ተጨማሪ ለመረዳት<ph name="END_LINK_HELP" /></translation>
+<translation id="7156235233373189579">ይህ ፋይል የWindows ሶፍትዌር ለሚጠቀም ተኮ ነው የተቀየሰው። ይሄ KPB OSን ከሚያሄደው መሣሪያዎ ጋር ተኳሃኝ አይደለም። ተገቢ የሆነ ምትክ መተግበሪያ ለማግኘት እባክዎ <ph name="BEGIN_LINK" />የKiwi ድር መደብሩን<ph name="END_LINK" /> ይፈልጉ።<ph name="BEGIN_LINK_HELP" />ተጨማሪ ለመረዳት<ph name="END_LINK_HELP" /></translation>
 <translation id="7165320105431587207">አውታረ መረቡን ማዋቀር አልተሳካም</translation>
 <translation id="716640248772308851">«<ph name="EXTENSION" />» ምልክት በተደረገባቸው አካባቢዎች ውስጥ ምስሎችን፣ ቪዲዮ እና የድምጽ ፋይሎችን ማንበብ ይችላል።</translation>
 <translation id="7167486101654761064">&amp;ሁልጊዜ እንዲህ አይነት ፋይሎችን ክፈት</translation>
@@ -4075,7 +4075,7 @@
 <translation id="7278870042769914968">ጂቲኬ ገጽታ ተጠቀም</translation>
 <translation id="727952162645687754">የማውረድ ስህተት</translation>
 <translation id="7279701417129455881">የኩኪ እገዳን አቀናብር…</translation>
-<translation id="7280041992884344566">Kiwi ጎጂ ሶፍትዌርን እየፈለገ ሳለ ስህተት አጋጥሟል</translation>
+<translation id="7280041992884344566">KPB ጎጂ ሶፍትዌርን እየፈለገ ሳለ ስህተት አጋጥሟል</translation>
 <translation id="7280649757394340890">የጽሑፍ-ወደ-ንግግር ድምጽ ቅንብሮች</translation>
 <translation id="7280877790564589615">ፈቃድ ተጠይቋል</translation>
 <translation id="7282992757463864530">የመረጃ አሞሌ</translation>
@@ -4093,7 +4093,7 @@
 <translation id="7297443947353982503">የተጠቃሚ ስም/ይለፍ ቃል ትክክል አይደለም ወይም EAP-auth አልተሳካም</translation>
 <translation id="729761647156315797">የእርስዎን ቋንቋ እና የቁልፍ ሰሌዳ ይምረጡ</translation>
 <translation id="7299337219131431707">የእንግዳ አሰሳን ያንቁ</translation>
-<translation id="730289542559375723">{NUM_APPLICATIONS,plural, =1{ይህ መተግበሪያ Kiwi በአግባቡ እንዳይሠራ ሊከላከል ይችላል።}one{እነዚህ መተግበሪያዎች Kiwi በአግባቡ እንዳይሠራ ሊከላከሉ ይችላሉ።}other{እነዚህ መተግበሪያዎች Kiwi በአግባቡ እንዳይሠራ ሊከላከሉ ይችላሉ።}}</translation>
+<translation id="730289542559375723">{NUM_APPLICATIONS,plural, =1{ይህ መተግበሪያ KPB በአግባቡ እንዳይሠራ ሊከላከል ይችላል።}one{እነዚህ መተግበሪያዎች KPB በአግባቡ እንዳይሠራ ሊከላከሉ ይችላሉ።}other{እነዚህ መተግበሪያዎች KPB በአግባቡ እንዳይሠራ ሊከላከሉ ይችላሉ።}}</translation>
 <translation id="7303900363563182677">ይህ ጣቢያ ወደ ቅንጥብ ሰሌዳው የተቀዱ ጽሑፍን እና ምስሎችን እንዳይመለከት ታግዷል</translation>
 <translation id="730515362922783851">በአካባቢ አውታረመረብ ወይም በይነመረብ ላይ ከማናቸውም መሣሪያ ጋር ውሂብ ተለዋወጥ</translation>
 <translation id="7308002049209013926">ወደ አዲስ መተግበሪያዎች እና እንቅስቃሴዎች በፍጥነት ለመሄድ ማስጀመሪያን ይጠቀሙ። በቁልፍ ሰሌዳ ወደዚህ ለመምጣት Alt + Shift + L ይጫኑ።</translation>
@@ -4135,7 +4135,7 @@
 <translation id="7376553024552204454">በሚንቀሳቀስበት ጊዜ የመዳፊት ጠቋሚን አድምቅ</translation>
 <translation id="7377169924702866686">Caps Lock በርቷል።</translation>
 <translation id="7378627244592794276">አይ</translation>
-<translation id="73786666777299047">Kiwi የድር መደብርን ይክፈቱ</translation>
+<translation id="73786666777299047">KPB የድር መደብርን ይክፈቱ</translation>
 <translation id="7378810950367401542">/</translation>
 <translation id="7378812711085314936">የውሂብ ግንኙነት ያግኙ</translation>
 <translation id="7384292194278095697">ይህ መሣሪያ ከአሁን በኋላ አይደገፍም</translation>
@@ -4278,7 +4278,7 @@
 <translation id="7580671184200851182">ተመሳሳዩን ኦዲዮ በሁሉም ድምፅ ማጉያዎች በኩል አጫውት (ሞኖ ኦዲዮ)</translation>
 <translation id="7581462281756524039">የማጽጃ መሣሪያ</translation>
 <translation id="7582582252461552277">ይህን አውታረ መረብ አስቀድመው ይምረጡ</translation>
-<translation id="7586498138629385861">Kiwi መተግበሪያዎች ክፍት ሲሆኑ Kiwi መስራቱን ይቀጥላል።</translation>
+<translation id="7586498138629385861">KPB መተግበሪያዎች ክፍት ሲሆኑ KPB መስራቱን ይቀጥላል።</translation>
 <translation id="7589461650300748890">ኸረ፣ እዚ ጋር። ጠንቀቅ ይበሉ።</translation>
 <translation id="7589661784326793847">አንድ ሰከንድ ብቻ ይጠብቁ</translation>
 <translation id="7591957897535945411">ይህ ገጽ ተተርጉሟል።</translation>
@@ -4396,7 +4396,7 @@
 <translation id="7788080748068240085">«<ph name="FILE_NAME" />»ን ከመስመር ውጪ ለማስቀመጥ ተጨማሪ የሆነ <ph name="TOTAL_FILE_SIZE" /> የማከማቻ ቦታ ነጻ ማስለቀቅ አለብዎት፦<ph name="MARKUP_1" />
         <ph name="MARKUP_2" />ከአሁን በኋላ ከመስመር ውጪ ለመድረስ የማያስፈልጉዎትን ፋይሎች ይንቀሱ<ph name="MARKUP_3" />
         <ph name="MARKUP_4" />ፋይሎችን ከወረዱ ማስቀመጫ አቃፊዎ ይሰርዙ<ph name="MARKUP_5" /></translation>
-<translation id="7788298548579301890">ሌላ ፕሮግራም Kiwi የሚሰራበትን መንገድ የሚለውጥ መተግበሪያ በኮምፒውተርዎ ታክሏል።
+<translation id="7788298548579301890">ሌላ ፕሮግራም KPB የሚሰራበትን መንገድ የሚለውጥ መተግበሪያ በኮምፒውተርዎ ታክሏል።
 
 
 <ph name="EXTENSION_NAME" /></translation>
@@ -4421,7 +4421,7 @@
 <translation id="7815680994978050279">አደገኛ ውርድ ታግዷል</translation>
 <translation id="7818135753970109980">አዲስ ገጽታ ታክሏል (<ph name="EXTENSION_NAME" />)</translation>
 <translation id="7819857487979277519">PSK (WPA ወይም RSN)</translation>
-<translation id="7819992334107904369">Kiwi ሥምረት</translation>
+<translation id="7819992334107904369">KPB ሥምረት</translation>
 <translation id="782057141565633384">የቪዲዮ አድራሻ &amp;ቅዳ</translation>
 <translation id="7821462174190887129"><ph name="FILE_COUNT" /> ተገኝቷል።
     <ph name="LINE_BREAK1" />
@@ -4431,7 +4431,7 @@
 <translation id="782590969421016895">የአሁኑ ገጾችን ይጠቀሙ</translation>
 <translation id="7826790948326204519"><ph name="BEGIN_H3" />የማረሚያ ባህሪያት<ph name="END_H3" />
     <ph name="BR" />
-    ብጁ ኮድ በመሣሪያዎ ላይ ለመጫን እና ለመሞከር በእርስዎ Kiwi OS መሣሪያ ላይ ያሉትን የማረሚያ ባህሪያት ማንቃት ይችላሉ። ይህ የሚከተሉትን እንዲያደርጉ ያስችልዎታል፦<ph name="BR" />
+    ብጁ ኮድ በመሣሪያዎ ላይ ለመጫን እና ለመሞከር በእርስዎ KPB OS መሣሪያ ላይ ያሉትን የማረሚያ ባህሪያት ማንቃት ይችላሉ። ይህ የሚከተሉትን እንዲያደርጉ ያስችልዎታል፦<ph name="BR" />
     <ph name="BEGIN_LIST" />
       <ph name="LIST_ITEM" />የስርዓተ ክወና ፋይሎችን መቀየር እንዲችሉ የrootfs ማረጋገጫን ማስወገድ
       <ph name="LIST_ITEM" />በመጠቀም መሣሪያውን ለመድረስ እንደ <ph name="BEGIN_CODE" />«cros flash»<ph name="END_CODE" /> ያሉ መሣሪያዎችን መጠቀም እንዲችሉ መደበኛ የሙከራ ቁልፎችን በመጠቀም የSSH መዳረሻን ማንቃት
@@ -4871,7 +4871,7 @@ nil</translation>
 <translation id="8470513973197838199">የተቀመጡ የ<ph name="ORIGIN" /> የይለፍ ቃላት</translation>
 <translation id="8472623782143987204">የሃርድዌር ደጀን ያለው</translation>
 <translation id="8474229360677287535">ሁሉንም የእርስዎ መስኮቶች ይዝጉ</translation>
-<translation id="8475313423285172237">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Kiwi የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ቅጥያ አክሏል።</translation>
+<translation id="8475313423285172237">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም KPB የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ቅጥያ አክሏል።</translation>
 <translation id="8475647382427415476">Google Drive አሁን «<ph name="FILENAME" />» ማስመር አልቻለም። Google Drive ቆይቶ እንደገና ይሞክራል።</translation>
 <translation id="8477241577829954800">ተተክቷል</translation>
 <translation id="8477384620836102176">&amp;አጠቃላይ</translation>
@@ -4939,7 +4939,7 @@ nil</translation>
 <translation id="8598453409908276158">ከማጠሪያ የወጣ ተሰኪ ታግዷል</translation>
 <translation id="8598687241883907630">የGoogle መለያዎትን ያላቅቁ...</translation>
 <translation id="8601206103050338563">TLS WWW የተገልጋይ ማረጋገጫ</translation>
-<translation id="8602851771975208551">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Kiwi የሚሰራበት መንገድ ሊቀይር የሚችል አንድ መተግበሪያ አክሏል።</translation>
+<translation id="8602851771975208551">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም KPB የሚሰራበት መንገድ ሊቀይር የሚችል አንድ መተግበሪያ አክሏል።</translation>
 <translation id="8605428685123651449">የSQLite ማህደረ ትውስታ</translation>
 <translation id="8606726445206553943">የእርስዎን የ MIDI መሣሪያዎች ይጠቀሙ</translation>
 <translation id="8609465669617005112">ወደላይ አውጣ</translation>
@@ -4984,7 +4984,7 @@ nil</translation>
 <translation id="8662795692588422978">ሰዎች</translation>
 <translation id="8662811608048051533">ከአብዛኛዎቹ ጣቢያዎች ዘግተው እንዲወጡ ያደርገዎታል።</translation>
 <translation id="8662911384982557515">መነሻ ገጽዎን ወደዚህ ይቀይሩት፦ <ph name="HOME_PAGE" /></translation>
-<translation id="8662978096466608964">Kiwi የግድግዳ ወረቀቱን ሊያዘጋጅ አይችልም።</translation>
+<translation id="8662978096466608964">KPB የግድግዳ ወረቀቱን ሊያዘጋጅ አይችልም።</translation>
 <translation id="8663099077749055505">ሁልጊዜም ከ<ph name="HOST" /> ላይ በርካታ የራስ ሰር ማውረዶችን አግድ</translation>
 <translation id="8664389313780386848">የፍሬም መነሻ  &amp;አሳይ</translation>
 <translation id="866611985033792019">የኢሜይል ተጠቃሚዎችን ለመለየት ይህን የዕውቅና ማረጋገጫ እመን</translation>
@@ -5038,7 +5038,7 @@ nil</translation>
 <translation id="8725178340343806893">ተወዳጆች/ዕልባቶች</translation>
 <translation id="8726206820263995930">የመምሪያ ቅንብሮች ከዚህ አገልጋይ በማምጣት ላይ ሳለ ስህተት፦ <ph name="CLIENT_ERROR" />።</translation>
 <translation id="8727142376512517020">ይህን ዳግም አታሳይ</translation>
-<translation id="8727344521467137076">በእርስዎ ኮምፒውተር ላይ ጎጂ ሶፍትዌር አለ። Kiwi የእርስዎን አሰሳ እንደገና በጤናማነት እንዲሠራ ለማድረግ ያስወግደው እና የእርስዎን ቅንብሮች እንደነበሩ ይመልሳቸዋል።</translation>
+<translation id="8727344521467137076">በእርስዎ ኮምፒውተር ላይ ጎጂ ሶፍትዌር አለ። KPB የእርስዎን አሰሳ እንደገና በጤናማነት እንዲሠራ ለማድረግ ያስወግደው እና የእርስዎን ቅንብሮች እንደነበሩ ይመልሳቸዋል።</translation>
 <translation id="8730621377337864115">ተከናውኗል</translation>
 <translation id="8732030010853991079">ይህን አዶ ጠቅ በማድረግ ይህንን ቅጥያ ይጠቀሙበት።</translation>
 <translation id="8732212173949624846">በሁሉም በመለያ በገቡ መሣሪያዎችዎ ላይ የአሰሳ ታሪክዎን ያነብባል እና ይቀይራል</translation>
@@ -5067,7 +5067,7 @@ nil</translation>
 <translation id="8767621466733104912">Chromeን ለሁሉም ተጠቃሚዎች በራስ-ሰር አዘምን</translation>
 <translation id="8770406935328356739">የቅጥያ ስርወ ማውጫ</translation>
 <translation id="8770507190024617908">ሰዎችን አቀናብር</translation>
-<translation id="8772138155943625586">Kiwi ልጣፎች</translation>
+<translation id="8772138155943625586">KPB ልጣፎች</translation>
 <translation id="8774934320277480003">የላይኛው ህዳግ</translation>
 <translation id="8775144690796719618">ልክ ያልሆነ ዩአርኤል</translation>
 <translation id="8775404590947523323">አርትዖትዎችዎ በራስ-ሰር ተቀምጠዋል።<ph name="BREAKS" />የመጀመሪያው ምስል ቅጂ ለማስቀመጥ «የመጀመሪያውን ተካ» የሚለው ላይ ያለውን ምልክት ያንሱ</translation>
@@ -5146,7 +5146,7 @@ nil</translation>
 <translation id="8899851313684471736">አገናኙን በአዲስ &amp;መስኮት ክፈት</translation>
 <translation id="8902667442496790482">ለመናገር-ይምረጡ ቅንብሮችን ይክፈቱ</translation>
 <translation id="8903921497873541725">አጉላ</translation>
-<translation id="8904976895050290827">Kiwi ሥምረት</translation>
+<translation id="8904976895050290827">KPB ሥምረት</translation>
 <translation id="8909233240676134608">ማሽኑን ከጎራው ጋር መቀላቀል አልተቻለም። አገልጋዩ የተጠቀሱትን የKerberos ምሥጠራ ዓይነቶች አይደግፍም። ለምሥጠራ ቅንብሮች «ተጨማሪ አማራጮችን» ላይ ምልክት ያድርጉ።</translation>
 <translation id="8909833622202089127">ጣቢያ የእርስዎን አካባቢ እየተከታተለ ነው</translation>
 <translation id="8910146161325739742">የእርስዎን ገጸ ማያ ያጋሩ</translation>
@@ -5282,7 +5282,7 @@ nil</translation>
 <translation id="9103868373786083162">ለመመለስ ይጫኑ፣ ታሪክን ለማየት የአውድ ምናሌ</translation>
 <translation id="9105212490906037469">F2</translation>
 <translation id="9109122242323516435">ባዶ ቦታ ለማስለቀቅ ከመሣሪያ ማከማቻ ፋይሎችን ይሰርዙ።</translation>
-<translation id="9110990317705400362">የእርስዎን አሰሳ ይበልጥ ደህንነቱ የተጠበቀ የሚሆንባቸው መንገዶችን በቋሚነት እየፈለግን ነው። ከዚህ ቀደም ማንኛውም ድር ጣቢያ ቅጥያ በአሳሽዎ ላይ እንዲያክሉ ሊጠይቅዎ ይችል ነበር። በቅርቦቹ የGoogle Kiwi ስሪቶች ላይ እነዚህን ቅጥያዎች በቅጥያዎች ገጹ በኩል በማከል እንደሚፈልጓቸው በግልጽ ለKiwi መንገር አለብዎት። <ph name="BEGIN_LINK" />ተጨማሪ ለመረዳት<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">የእርስዎን አሰሳ ይበልጥ ደህንነቱ የተጠበቀ የሚሆንባቸው መንገዶችን በቋሚነት እየፈለግን ነው። ከዚህ ቀደም ማንኛውም ድር ጣቢያ ቅጥያ በአሳሽዎ ላይ እንዲያክሉ ሊጠይቅዎ ይችል ነበር። በቅርቦቹ የGoogle KPB ስሪቶች ላይ እነዚህን ቅጥያዎች በቅጥያዎች ገጹ በኩል በማከል እንደሚፈልጓቸው በግልጽ ለKiwi መንገር አለብዎት። <ph name="BEGIN_LINK" />ተጨማሪ ለመረዳት<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">ክፈት</translation>
 <translation id="9111395131601239814"><ph name="NETWORKDEVICE" />: <ph name="STATUS" /></translation>
 <translation id="9112748030372401671">የእርስዎን ግድግዳ ወረቀት ይቀይራል</translation>
@@ -5304,7 +5304,7 @@ nil</translation>
 <translation id="9131598836763251128">አንድ ወይም ተጨማሪ ፋይሎችን ይምረጡ</translation>
 <translation id="9133055936679483811">መጭመቅ አልተሳካም። <ph name="ERROR_MESSAGE" /></translation>
 <translation id="9134304429738380103">አዎ፣ ገብቼበታለሁ።</translation>
-<translation id="9134524245363717059">ይህ ፋይል የMacintosh ሶፍትዌር ለሚጠቀም ኮምፒውተር ነው የተሰራው። ይሄ Kiwi OSን ከሚያሄደው መሣሪያዎ ጋር ተኳሃኝ አይደለም። አግባብ የሆነውን መተኪያ መተግበሪያ ለማግኘት እባክዎ Kiwi የድር መደብሩን ይፈልጉ።</translation>
+<translation id="9134524245363717059">ይህ ፋይል የMacintosh ሶፍትዌር ለሚጠቀም ኮምፒውተር ነው የተሰራው። ይሄ KPB OSን ከሚያሄደው መሣሪያዎ ጋር ተኳሃኝ አይደለም። አግባብ የሆነውን መተኪያ መተግበሪያ ለማግኘት እባክዎ KPB የድር መደብሩን ይፈልጉ።</translation>
 <translation id="9137013805542155359">የመጀመሪያውን አሳይ</translation>
 <translation id="9137916601698928395">እንደ <ph name="USER" /> ሆነው አገናኙን ይክፈቱ</translation>
 <translation id="9138978632494473300">ለሚከተሉት ቦታዎች አቋራጮችን ያክሉ፦</translation>
@@ -5328,7 +5328,7 @@ nil</translation>
 <translation id="9169931577761441333"><ph name="APP_NAME" />ን ወደ መነሻ ገጽ ያክሉ</translation>
 <translation id="9170397650136757332">አሁን ሁሉንም የተለያዩ የጣት አሻራዎን ክፍሎች ለማንሳት ጣትዎን በቀስታ ያንቀሳቅሱት</translation>
 <translation id="9170848237812810038">&amp;ቀልብስ</translation>
-<translation id="9170884462774788842">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም Kiwi የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ገጽታ አክሏል።</translation>
+<translation id="9170884462774788842">በኮምፒውተርዎ ላይ ያለ ሌላ ፕሮግራም KPB የሚሰራበት መንገድ ሊቀይር የሚችል አንድ ገጽታ አክሏል።</translation>
 <translation id="9173995187295789444">የብሉቱዝ መሣሪያዎችን በመቃኘት ላይ...</translation>
 <translation id="9174212595744391062">ይህ የሚከተለውን ጨምሮ ለሁሉም ጣቢያዎች ኩኪዎችን እና መሸጎጫን ያጸዳል</translation>
 <translation id="9176611096776448349"><ph name="WINDOW_TITLE" /> - የብሉቱዝ መሣሪያ ተገናኝቷል</translation>
@@ -5377,7 +5377,7 @@ nil</translation>
 <translation id="960719561871045870">የከዋኝ ኮድ</translation>
 <translation id="960987915827980018">1 ሰዓት አካባቢ ቀርቷል</translation>
 <translation id="962802172452141067">የእልባት አቃፊ ዛፍ</translation>
-<translation id="964286338916298286">የእርስዎ የአይቲ አስተዳዳሪ Kiwi Goodiesን ለመሣሪያዎ አሰናክሏል።</translation>
+<translation id="964286338916298286">የእርስዎ የአይቲ አስተዳዳሪ KPB Goodiesን ለመሣሪያዎ አሰናክሏል።</translation>
 <translation id="964439421054175458">{NUM_APLLICATIONS,plural, =1{መተግበሪያ}one{መተግበሪያዎች}other{መተግበሪያዎች}}</translation>
 <translation id="968000525894980488">Google Play አገልግሎቶችን ያብሩ።</translation>
 <translation id="968174221497644223">የመተግበሪያ መሸጎጫ</translation>

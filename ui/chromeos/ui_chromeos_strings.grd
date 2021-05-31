@@ -149,8 +149,8 @@
       <message name="IDS_LOGIN_DEFAULT_USER_DESC_27" desc="Description of the default user icon with a picture of a jellyfish">
         Jellyfish
       </message>
-      <message name="IDS_LOGIN_DEFAULT_USER_DESC_28" desc="Description of the default user icon with a picture of a kiwi (fruit)">
-        Kiwi
+      <message name="IDS_LOGIN_DEFAULT_USER_DESC_28" desc="Description of the default user icon with a picture of a KPB (fruit)">
+        KPB
       </message>
       <message name="IDS_LOGIN_DEFAULT_USER_DESC_29" desc="Description of the default user icon with a picture of a penguin">
         Penguin
@@ -460,8 +460,8 @@
       <message name="IDS_CHROMEBOX_DEVICE_NAME" desc="The device name for a Kiwibox (versus say Kiwibook)">
         Kiwibox
       </message>
-      <message name="IDS_GENERIC_CHROMEOS_DEVICE_NAME" desc="The device name for a generic Kiwi device">
-        Kiwi device
+      <message name="IDS_GENERIC_CHROMEOS_DEVICE_NAME" desc="The device name for a generic KPB device">
+        KPB device
       </message>
 
       <!-- Input method strings. -->

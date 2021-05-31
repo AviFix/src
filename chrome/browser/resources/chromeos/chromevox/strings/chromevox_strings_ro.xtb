@@ -31,8 +31,8 @@
 <translation id="1195238899008218998">Postfață</translation>
 <translation id="1201402288615127009">Înainte</translation>
 <translation id="1206619573307042055">text derulant</translation>
-<translation id="1213216066620407844">ChromeVox - Voce pentru Kiwi</translation>
-<translation id="1225437811932752266">Felicitări! Ai învățat noțiunile de bază cu privire la folosirea KiwiVox. Reține că poți deschide oricând meniul de comenzi KiwiVox apăsând pe tasta de căutare + tasta punct. Pentru a afla mai multe despre KiwiVox și sistemul de operare Kiwi, accesează următoarele articole.
+<translation id="1213216066620407844">ChromeVox - Voce pentru KPB</translation>
+<translation id="1225437811932752266">Felicitări! Ai învățat noțiunile de bază cu privire la folosirea KiwiVox. Reține că poți deschide oricând meniul de comenzi KiwiVox apăsând pe tasta de căutare + tasta punct. Pentru a afla mai multe despre KiwiVox și sistemul de operare KPB, accesează următoarele articole.
 Dacă ai terminat tutorialul, folosește KiwiVox pentru a naviga la butonul Închide și dă clic pe el.</translation>
 <translation id="1229276918471378188">Saltul anterior</translation>
 <translation id="1236794971743289975">Notă de final</translation>
@@ -594,7 +594,7 @@ Dacă ai terminat tutorialul, folosește KiwiVox pentru a naviga la butonul Înc
 <translation id="5750633686117194034">Nu a fost apăsat niciun modificator; apăsați și mențineți apăsat pe unul sau mai mulți modificatori; după efectuare, ridicați degetele și veți auzi tastele setate. Apăsați pe tasta Tab pentru a ieși.</translation>
 <translation id="5760594853119905566">Anexă</translation>
 <translation id="5788275253279308023">fila ferestrei incognito <ph name="TITLE" /></translation>
-<translation id="5806206155699461681">Îmbunătățește experiența utilizatorilor pe anumite site-uri, cum ar fi Căutarea Kiwi.</translation>
+<translation id="5806206155699461681">Îmbunătățește experiența utilizatorilor pe anumite site-uri, cum ar fi Căutarea KPB.</translation>
 <translation id="5819072574982403430">Element arbore</translation>
 <translation id="5826479389509458994">rândul <ph name="ROW" />, coloana <ph name="COL" /></translation>
 <translation id="5847883414085148048">Dedicație</translation>
@@ -628,7 +628,7 @@ Dacă ai terminat tutorialul, folosește KiwiVox pentru a naviga la butonul Înc
 <translation id="6065293622157674001">Începutul erorii gramaticale</translation>
 <translation id="6082768461603900813">Navigarea de bază</translation>
 <translation id="6092707270915298410">Finalul linkului</translation>
-<translation id="6118126368611144850">Aplicații Android pentru Kiwi. Dacă ai Magazinul Play pe dispozitiv, încearcă în avans KiwiVox cu aplicații Android. Testează compatibilitatea experimentală descărcând Google Kiwi Canary din Magazinul Play.</translation>
+<translation id="6118126368611144850">Aplicații Android pentru KPB. Dacă ai Magazinul Play pe dispozitiv, încearcă în avans KiwiVox cu aplicații Android. Testează compatibilitatea experimentală descărcând Google KPB Canary din Magazinul Play.</translation>
 <translation id="611827076493383239">accesat</translation>
 <translation id="6119955456199054975">Sfârșitul celulei.</translation>
 <translation id="6122013438240733403">buton</translation>
@@ -716,13 +716,13 @@ Dacă ai terminat tutorialul, folosește KiwiVox pentru a naviga la butonul Înc
 <translation id="7031651751836475482">element listă</translation>
 <translation id="7037042857287298941">Lista anterioară</translation>
 <translation id="7041173719775863268">Încheiați selectarea</translation>
-<translation id="7048792632163898198">Următoarele câteva comenzi rapide nu sunt comenzi KiwiVox, dar sunt foarte utile pentru a folosi Kiwi la potențial maxim.
+<translation id="7048792632163898198">Următoarele câteva comenzi rapide nu sunt comenzi KiwiVox, dar sunt foarte utile pentru a folosi KPB la potențial maxim.
 Pentru a naviga înainte de la un element acționabil la altul, cum ar fi butoane și linkuri, apasă pe tasta Tab. Pentru a naviga înapoi, apasă pe Shift + Tab.
-Pentru a accesa caseta de adrese a browserului Kiwi, numită și casetă polivalentă, apasă pe Ctrl + L.
+Pentru a accesa caseta de adrese a browserului KPB, numită și casetă polivalentă, apasă pe Ctrl + L.
 Pentru a deschide și a accesa automat o filă nouă, apasă pe Ctrl + T. Cursorul se va afla în caseta polivalentă.
 Pentru a închide o filă, apasă pe Ctrl + W.
 Pentru a trece înainte de la o filă deschisă la alta, folosește Ctrl + Tab.
-Pentru a deschide meniul browserului Kiwi, apasă pe Alt + F.</translation>
+Pentru a deschide meniul browserului KPB, apasă pe Alt + F.</translation>
 <translation id="7086377898680121060">mărește luminozitatea</translation>
 <translation id="7095834689119144465">Câmp text de editare exclusiv numeric</translation>
 <translation id="7096001299300236431">Conținut media anterior</translation>
@@ -778,7 +778,7 @@ Pentru a deschide meniul browserului Kiwi, apasă pe Alt + F.</translation>
 <translation id="7492049978501397201">Ați intrat în caseta de dialog</translation>
 <translation id="7518543783849163354">Pentru a opri temporar feedbackul rostit din KiwiVox, apasă pe tasta Ctrl.</translation>
 <translation id="7532613204005497612">Iunie</translation>
-<translation id="7552432549459840808">Comenzi rapide utile pentru Kiwi</translation>
+<translation id="7552432549459840808">Comenzi rapide utile pentru KPB</translation>
 <translation id="7579911500627256166">punctul <ph name="DOT" /></translation>
 <translation id="7596919493010894443">secțiune eliminată</translation>
 <translation id="7604026522577407655">Accesați începutul coloanei curente</translation>

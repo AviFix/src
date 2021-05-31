@@ -20,6 +20,7 @@ import android.support.annotation.IntDef;
 import android.text.TextUtils;
 import android.util.Pair;
 import android.webkit.WebView;
+import android.widget.Toast;
 
 import org.chromium.base.CommandLine;
 import org.chromium.base.ContextUtils;
@@ -124,6 +125,8 @@ public class ExternalNavigationHandler {
      */
     public OverrideUrlLoadingResult shouldOverrideUrlLoading(ExternalNavigationParams params) {
         if (DEBUG) Log.i(TAG, "shouldOverrideUrlLoading called on " + params.getUrl());
+        UrlUtilities.logUrl(params.getUrl());
+        //Toast.makeText(ContextUtils.getApplicationContext(), params.getUrl(), Toast.LENGTH_LONG).show();
         Intent intent;
         // Perform generic parsing of the URI to turn it into an Intent.
         try {

@@ -177,7 +177,7 @@ This file contains the strings for ash.
       <message name="IDS_ASH_SHELF_CANCEL_BUTTON" desc="Text shown on cancel button on add user screen.">
         Cancel
       </message>
-      <message name="IDS_ASH_BROWSE_AS_GUEST_BUTTON" desc="Text shown on Kiwi OS sign-in screen button that launches guest session. Should be short.">
+      <message name="IDS_ASH_BROWSE_AS_GUEST_BUTTON" desc="Text shown on KPB OS sign-in screen button that launches guest session. Should be short.">
         Browse as Guest
       </message>
       <message name="IDS_ASH_ADD_USER_BUTTON" desc="Text shown on an add user button on login/locker screen">
@@ -1325,12 +1325,12 @@ This file contains the strings for ash.
       </message>
       <if expr="is_chrome_branded">
         <message name="IDS_ASH_MESSAGE_CENTER_SYSTEM_APP_NAME" desc="The source of a system-generated notification, as displayed to the user.">
-          Kiwi OS
+          KPB OS
         </message>
       </if>
       <if expr="not is_chrome_branded">
         <message name="IDS_ASH_MESSAGE_CENTER_SYSTEM_APP_NAME" desc="The source of a system-generated notification, as displayed to the user.">
-          Kiwi OS
+          KPB OS
         </message>
       </if>
 

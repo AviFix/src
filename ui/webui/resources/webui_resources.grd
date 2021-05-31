@@ -18,7 +18,7 @@ without changes to the corresponding grd file. -->
       <include name="IDR_WEBUI_ANALYTICS_JS" file="js/analytics.js" flattenhtml="true" type="BINDATA" compress="gzip" />
       <!-- Roboto Font. Roboto-Regular and Roboto-Light is already available on
            Android, and Roboto-Medium is not used on Android. All 6 weights of
-           Roboto are available on Kiwi OS.-->
+           Roboto are available on KPB OS.-->
       <if expr="is_android or not is_android and not chromeos">
         <include name="IDR_WEBUI_ROBOTO_ROBOTO_REGULAR_WOFF2" file="roboto/roboto-regular.woff2" type="BINDATA" />
         <include name="IDR_WEBUI_ROBOTO_ROBOTO_MEDIUM_WOFF2" file="roboto/roboto-medium.woff2" type="BINDATA" />

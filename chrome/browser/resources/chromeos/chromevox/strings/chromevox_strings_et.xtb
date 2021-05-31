@@ -31,8 +31,8 @@
 <translation id="1195238899008218998">Järelsõna</translation>
 <translation id="1201402288615127009">Edasi</translation>
 <translation id="1206619573307042055">marquee</translation>
-<translation id="1213216066620407844">ChromeVox – annab Kiwi'ile hääle</translation>
-<translation id="1225437811932752266">Õnnitleme! Olete omandanud KiwiVoxi kasutamiseks vajalikud põhiteadmised. Pidage meeles, et saate KiwiVoxi käsumenüü avada igal ajal, vajutades otsinguklahvi ja punktiklahvi. KiwiVoxi ja Kiwi OS-i kohta lisateabe saamiseks lugege järgmisi artikleid.
+<translation id="1213216066620407844">ChromeVox – annab KPB'ile hääle</translation>
+<translation id="1225437811932752266">Õnnitleme! Olete omandanud KiwiVoxi kasutamiseks vajalikud põhiteadmised. Pidage meeles, et saate KiwiVoxi käsumenüü avada igal ajal, vajutades otsinguklahvi ja punktiklahvi. KiwiVoxi ja KPB OS-i kohta lisateabe saamiseks lugege järgmisi artikleid.
 Kui olete õpetusega lõpetanud, navigeerige KiwiVoxi abil sulgemisnupuni ja klõpsake sellel.</translation>
 <translation id="1229276918471378188">Eelmine hüpe</translation>
 <translation id="1236794971743289975">Järelmärkus</translation>
@@ -628,7 +628,7 @@ Kui olete õpetusega lõpetanud, navigeerige KiwiVoxi abil sulgemisnupuni ja kl�
 <translation id="6065293622157674001">Grammatikavea algus</translation>
 <translation id="6082768461603900813">Navigeerimise põhifunktsioonid</translation>
 <translation id="6092707270915298410">Lingi lõpp</translation>
-<translation id="6118126368611144850">Androidi rakendused Kiwi'i jaoks. Kui teie seadmes on Play pood, saate  vaadata, kuidas KiwiVox Androidi rakendustega töötab. Proovige katselist tuge, laadides Play poest alla Google Kiwi Canary.</translation>
+<translation id="6118126368611144850">Androidi rakendused KPB'i jaoks. Kui teie seadmes on Play pood, saate  vaadata, kuidas KiwiVox Androidi rakendustega töötab. Proovige katselist tuge, laadides Play poest alla Google KPB Canary.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119955456199054975">Lahtri lõpp.</translation>
 <translation id="6122013438240733403">nupp</translation>
@@ -716,7 +716,7 @@ Kui olete õpetusega lõpetanud, navigeerige KiwiVoxi abil sulgemisnupuni ja kl�
 <translation id="7031651751836475482">lnd üksus</translation>
 <translation id="7037042857287298941">Eelmine loend</translation>
 <translation id="7041173719775863268">Valiku lõpp</translation>
-<translation id="7048792632163898198">Järgmised otseteed ei ole KiwiVoxi käsud, ent need on siiski väga kasulikud ja võimaldavad Kiwi'i parimal moel kasutada.
+<translation id="7048792632163898198">Järgmised otseteed ei ole KiwiVoxi käsud, ent need on siiski väga kasulikud ja võimaldavad KPB'i parimal moel kasutada.
 Tegevusüksuste, näiteks nuppude ja linkide hulgas navigeerimiseks kasutage tabulaatorit. Tagasisuunas navigeerimiseks vajutage tõstuklahvi ja tabulaatorit. 
 Chrome'i brauseri aadressiriba ehk omnikastikese valimiseks vajutage klahvikombinatsiooni Ctrl + L.
 Uue vahelehe avamiseks ja automaatselt aktiveerimiseks vajutage klahvikombinatsiooni Ctrl + T. Teie kursor asub uuel vahelehel omnikastikeses. 
@@ -778,7 +778,7 @@ Chrome'i brauseri menüü avamiseks vajutage klahvikombinatsiooni Alt + F.</tran
 <translation id="7492049978501397201">Sisestatud dialoog</translation>
 <translation id="7518543783849163354">Vajutage klahvi Control, et KiwiVoxi kõne ajutiselt peatada.</translation>
 <translation id="7532613204005497612">Juuni</translation>
-<translation id="7552432549459840808">Kasulikud Kiwi'i otseteed</translation>
+<translation id="7552432549459840808">Kasulikud KPB'i otseteed</translation>
 <translation id="7579911500627256166">punkt <ph name="DOT" /></translation>
 <translation id="7596919493010894443">valik on tühjendatud</translation>
 <translation id="7604026522577407655">Mine praeguse veeru algusesse</translation>

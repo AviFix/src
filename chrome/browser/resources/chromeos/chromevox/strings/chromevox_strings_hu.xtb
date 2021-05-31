@@ -31,8 +31,8 @@
 <translation id="1195238899008218998">Utószó</translation>
 <translation id="1201402288615127009">Következő</translation>
 <translation id="1206619573307042055">fényújság</translation>
-<translation id="1213216066620407844">ChromeVox – A Kiwi megszólaltatása</translation>
-<translation id="1225437811932752266">Gratulálunk! Sikeresen elsajátította a KiwiVox használatának alapjait. Ne feledje, hogy a KiwiVox parancsmenüjét bármikor megnyithatja a Keresés+pont billentyűkombináció lenyomásával. Ha még többet szeretne megtudni a KiwiVox és a Kiwi OS használatáról, olvassa el az alábbi cikkeket.
+<translation id="1213216066620407844">ChromeVox – A KPB megszólaltatása</translation>
+<translation id="1225437811932752266">Gratulálunk! Sikeresen elsajátította a KiwiVox használatának alapjait. Ne feledje, hogy a KiwiVox parancsmenüjét bármikor megnyithatja a Keresés+pont billentyűkombináció lenyomásával. Ha még többet szeretne megtudni a KiwiVox és a KPB OS használatáról, olvassa el az alábbi cikkeket.
 Ha végzett az útmutatóval, navigáljon a KiwiVox segítségével a Bezárás gombhoz, és kattintson rá.</translation>
 <translation id="1229276918471378188">Előző ugrás</translation>
 <translation id="1236794971743289975">Záró jegyzet</translation>
@@ -628,7 +628,7 @@ Ha végzett az útmutatóval, navigáljon a KiwiVox segítségével a Bezárás 
 <translation id="6065293622157674001">Nyelvtani hiba kezdődik</translation>
 <translation id="6082768461603900813">Alapvető navigáció</translation>
 <translation id="6092707270915298410">Link vége</translation>
-<translation id="6118126368611144850">Android-alkalmazások Kiwi-ra. Ha eszközén telepítve van a Play Áruház, előzetes betekintést kaphat a KiwiVox Android-alkalmazásokkal való használatába. Töltse le a Google Kiwi Canary verzióját a Play Áruházból, és próbálja ki a kísérleti támogatást.</translation>
+<translation id="6118126368611144850">Android-alkalmazások KPB-ra. Ha eszközén telepítve van a Play Áruház, előzetes betekintést kaphat a KiwiVox Android-alkalmazásokkal való használatába. Töltse le a Google KPB Canary verzióját a Play Áruházból, és próbálja ki a kísérleti támogatást.</translation>
 <translation id="611827076493383239">felkeresett</translation>
 <translation id="6119955456199054975">Cella vége.</translation>
 <translation id="6122013438240733403">gmb</translation>
@@ -716,13 +716,13 @@ Ha végzett az útmutatóval, navigáljon a KiwiVox segítségével a Bezárás 
 <translation id="7031651751836475482">lstelem</translation>
 <translation id="7037042857287298941">Előző lista</translation>
 <translation id="7041173719775863268">Kijelölés vége</translation>
-<translation id="7048792632163898198">A következő néhány billentyűparancs nem KiwiVox-parancs, de nagyon hasznosak, ha a lehető legtöbbet szeretné kihozni a Kiwi-ból.
+<translation id="7048792632163898198">A következő néhány billentyűparancs nem KiwiVox-parancs, de nagyon hasznosak, ha a lehető legtöbbet szeretné kihozni a KPB-ból.
 A kattintható elemek (például a gombok és linkek) közötti előre történő navigációhoz nyomja le a Tab billentyűt. A visszafelé történő navigáláshoz nyomja le a Shift + Tab billentyűkombinációt.
-A Kiwi böngésző címsávjába vagy más néven cím- és keresősávjába lépéshez nyomja le a Control + L billentyűkombinációt.
+A KPB böngésző címsávjába vagy más néven cím- és keresősávjába lépéshez nyomja le a Control + L billentyűkombinációt.
 Új lap megnyitásához és az automatikus ráváltáshoz nyomja le a Control + T billentyűkombinációt. A kurzor a cím- és keresősávba kerül.
 Az adott lap bezárásához nyomja le a Control + W billentyűkombinációt.
 A megnyitott lapok közötti előrelépéshez használja a Control + Tab billentyűkombinációt.
-A Kiwi böngésző menüjének megnyitásához nyomja le az Alt + F billentyűkombinációt.</translation>
+A KPB böngésző menüjének megnyitásához nyomja le az Alt + F billentyűkombinációt.</translation>
 <translation id="7086377898680121060">fényerő növelése</translation>
 <translation id="7095834689119144465">Szövegszerkesztés – csak numerikus</translation>
 <translation id="7096001299300236431">Előző médiaelem</translation>
@@ -778,7 +778,7 @@ A Kiwi böngésző menüjének megnyitásához nyomja le az Alt + F billentyűko
 <translation id="7492049978501397201">Belépett a párbeszédbe</translation>
 <translation id="7518543783849163354">A KiwiVox beszédének átmeneti leállításához nyomja le a Control billentyűt.</translation>
 <translation id="7532613204005497612">június</translation>
-<translation id="7552432549459840808">Hasznos Kiwi-billentyűparancsok</translation>
+<translation id="7552432549459840808">Hasznos KPB-billentyűparancsok</translation>
 <translation id="7579911500627256166"><ph name="DOT" /> pont</translation>
 <translation id="7596919493010894443">kijelölés törölve</translation>
 <translation id="7604026522577407655">Ugrás az aktuális oszlop elejére</translation>
