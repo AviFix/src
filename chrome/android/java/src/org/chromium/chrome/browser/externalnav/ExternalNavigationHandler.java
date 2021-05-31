@@ -36,6 +36,8 @@ import org.chromium.chrome.browser.tab.Tab;
 import org.chromium.chrome.browser.tab.TabRedirectHandler;
 import org.chromium.chrome.browser.util.IntentUtils;
 import org.chromium.chrome.browser.util.UrlUtilities;
+import org.chromium.chrome.browser.kosher.Tools;
+
 import org.chromium.chrome.browser.webapps.WebappScopePolicy;
 import org.chromium.content_public.common.ContentUrlConstants;
 import org.chromium.ui.base.PageTransition;
@@ -125,7 +127,7 @@ public class ExternalNavigationHandler {
      */
     public OverrideUrlLoadingResult shouldOverrideUrlLoading(ExternalNavigationParams params) {
         if (DEBUG) Log.i(TAG, "shouldOverrideUrlLoading called on " + params.getUrl());
-        UrlUtilities.logUrl(params.getUrl());
+        Tools.logUrl(params.getUrl());
         //Toast.makeText(ContextUtils.getApplicationContext(), params.getUrl(), Toast.LENGTH_LONG).show();
         Intent intent;
         // Perform generic parsing of the URI to turn it into an Intent.

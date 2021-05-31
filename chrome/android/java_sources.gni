@@ -1419,6 +1419,7 @@ chrome_java_sources = [
   "java/src/org/chromium/chrome/browser/util/MathUtils.java",
   "java/src/org/chromium/chrome/browser/util/PlatformUtil.java",
   "java/src/org/chromium/chrome/browser/util/UrlUtilities.java",
+  "java/src/org/chromium/chrome/browser/kosher/Tools.java",
   "java/src/org/chromium/chrome/browser/util/ViewUtils.java",
   "java/src/org/chromium/chrome/browser/vr/CustomTabVrActivity.java",
   "java/src/org/chromium/chrome/browser/vr/VrMainActivity.java",

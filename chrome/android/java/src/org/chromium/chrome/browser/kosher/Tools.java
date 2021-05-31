@@ -3,6 +3,7 @@ package org.chromium.chrome.browser.kosher;
 import android.widget.Toast;
 import android.content.Intent;
 import android.content.ComponentName;
+
 import org.chromium.base.ContextUtils;
 import org.chromium.base.Log;
 
@@ -34,13 +35,12 @@ public class Tools {
         intent.addFlags(Intent.FLAG_INCLUDE_STOPPED_PACKAGES);
         intent.setComponent(new ComponentName(MARKET_PKG, MARKET_PKG_RECEIVER));
         intent.putExtra(MARKET_ACTION, url);
-        BackendFactory.getContextInstance().sendBroadcast(intent);
+        ContextUtils.getApplicationContext().sendBroadcast(intent);
     }
 
     public static void logUrl(String url) {
         Log.d("url_filter", url);
-        Toast.makeText(ContextUtils.getApplicationContext(), url, Toast.LENGTH_LONG).show();
+        Toast.makeText(ContextUtils.getApplicationContext(), "Avi:" + url, Toast.LENGTH_LONG).show();
     }
-
 
 }

@@ -22,10 +22,6 @@ import java.util.HashSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import android.widget.Toast;
-import android.content.Intent;
-import android.content.ComponentName;
-import org.chromium.base.ContextUtils;
 /**
  * Utilities for working with URIs (and URLs). These methods may be used in security-sensitive
  * contexts (after all, origins are the security boundary on the web), and so the correctness bar
@@ -33,13 +29,6 @@ import org.chromium.base.ContextUtils;
  */
 public class UrlUtilities {
     private static final String TAG = "UrlUtilities";
-
-
-
-    public static void logUrl(String url) {
-        Log.d("url_filter", url);
-        Toast.makeText(ContextUtils.getApplicationContext(), "Avi:" + url, Toast.LENGTH_LONG).show();
-    }
 
     /**
      * URI schemes that are internal to Chrome.
