@@ -54,18 +54,10 @@ public class Tools {
 
         // if (!aa) {
 
-        SharedPreferences.Editor sharedPreferencesEditor0 = mSharedPreferences.edit();
-        sharedPreferencesEditor0.putBoolean(PREF_HOMEPAGE_USE_DEFAULT_URI, false);
-        sharedPreferencesEditor0.apply();
 
-
-        SharedPreferences.Editor sharedPreferencesEditor2 = mSharedPreferences.edit();
-        sharedPreferencesEditor2.putString(PREF_HOMEPAGE_CUSTOM_URI, "chrome://newtab");
-        sharedPreferencesEditor2.apply();
-
-        SharedPreferences.Editor sharedPreferencesEditor = mSharedPreferences.edit();
-        sharedPreferencesEditor.putBoolean(PREF_HOMEPAGE_ENABLED, true);
-        sharedPreferencesEditor.apply();
+//        ContextUtils.getAppSharedPreferences().edit().putString(PREF_HOMEPAGE_CUSTOM_URI, "chrome://newtab").apply();
+//        ContextUtils.getAppSharedPreferences().edit().putBoolean(PREF_HOMEPAGE_USE_DEFAULT_URI, false).apply();
+//        ContextUtils.getAppSharedPreferences().edit().putBoolean(PREF_HOMEPAGE_ENABLED, true).apply();
 
 
         //}

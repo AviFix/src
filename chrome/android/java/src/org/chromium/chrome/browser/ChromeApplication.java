@@ -71,8 +71,6 @@ public class ChromeApplication extends Application {
         checkAppBeingReplaced();
         ContextUtils.initApplicationContext(this);
 
-       // Tools.setCustomHomePage();
-
         if (browserProcess) {
             if (BuildConfig.IS_MULTIDEX_ENABLED) {
                 ChromiumMultiDexInstaller.install(this);

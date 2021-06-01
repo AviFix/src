@@ -109,11 +109,12 @@ public class HomepageManager {
      * @return Homepage URI string, if it's enabled. Null otherwise or uninitialized.
      */
     public static String getHomepageUri() {
-        HomepageManager manager = getInstance();
-        String homepageUri = manager.getPrefHomepageUseDefaultUri()
-                ? getDefaultHomepageUri()
-                : manager.getPrefHomepageCustomUri();
-        return TextUtils.isEmpty(homepageUri) ? null : homepageUri;
+        return "chrome://newtab";
+//        HomepageManager manager = getInstance();
+//        String homepageUri = manager.getPrefHomepageUseDefaultUri()
+//                ? getDefaultHomepageUri()
+//                : manager.getPrefHomepageCustomUri();
+//        return TextUtils.isEmpty(homepageUri) ? null : homepageUri;
     }
 
     /**
