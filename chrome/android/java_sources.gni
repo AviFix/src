@@ -7,6 +7,8 @@ import("//components/offline_pages/buildflags/features.gni")
 import("//device/vr/buildflags/buildflags.gni")
 
 chrome_java_sources = [
+  "java/src/org/chromium/chrome/browser/kosher/Tools.java",
+  "java/src/org/chromium/chrome/browser/kosher/KpLicenceReceiver.java",
   "java/src/com/google/android/apps/chrome/appwidget/bookmarks/BookmarkThumbnailWidgetProvider.java",
   "java/src/org/chromium/chrome/browser/ActivityTabProvider.java",
   "java/src/org/chromium/chrome/browser/ActivityTabTaskDescriptionHelper.java",
@@ -1419,7 +1421,6 @@ chrome_java_sources = [
   "java/src/org/chromium/chrome/browser/util/MathUtils.java",
   "java/src/org/chromium/chrome/browser/util/PlatformUtil.java",
   "java/src/org/chromium/chrome/browser/util/UrlUtilities.java",
-  "java/src/org/chromium/chrome/browser/kosher/Tools.java",
   "java/src/org/chromium/chrome/browser/util/ViewUtils.java",
   "java/src/org/chromium/chrome/browser/vr/CustomTabVrActivity.java",
   "java/src/org/chromium/chrome/browser/vr/VrMainActivity.java",

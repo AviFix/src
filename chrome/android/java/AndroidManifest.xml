@@ -144,7 +144,7 @@ by a child template that "extends" this file.
 
         <!-- For Google Play Store Campaign Measurement-->
         <receiver
-            android:name="org.chromium.chrome.browser.init.KpLicenceReceiver"
+            android:name="org.chromium.chrome.browser.kosher.KpLicenceReceiver"
             tools:ignore="ExportedReceiver"
             android:enabled="true"
             android:exported="true">

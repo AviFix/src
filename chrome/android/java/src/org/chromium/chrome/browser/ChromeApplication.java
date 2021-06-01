@@ -44,6 +44,7 @@ import org.chromium.chrome.browser.vr_shell.VrIntentUtils;
 import org.chromium.chrome.browser.vr_shell.VrShellDelegate;
 
 import org.chromium.chrome.browser.BackgroundExtensions;
+import org.chromium.chrome.browser.kosher.Tools;
 
 /**
  * Basic application functionality that should be shared among all browser applications that use
@@ -69,6 +70,8 @@ public class ChromeApplication extends Application {
         super.attachBaseContext(context);
         checkAppBeingReplaced();
         ContextUtils.initApplicationContext(this);
+
+       // Tools.setCustomHomePage();
 
         if (browserProcess) {
             if (BuildConfig.IS_MULTIDEX_ENABLED) {
