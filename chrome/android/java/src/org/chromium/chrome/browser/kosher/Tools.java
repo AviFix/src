@@ -30,7 +30,7 @@ public class Tools {
     public static final String PK_REGISTRATION_STATE_KEY = "registrationState";
 
     public static void requestId(Context context) {
-        Toast.makeText(context, "Requesting id", Toast.LENGTH_LONG).show();
+//        Toast.makeText(context, "Requesting id", Toast.LENGTH_LONG).show();
 
         Intent iM = new Intent();
         iM.setAction("com.sheps.comms");
@@ -57,7 +57,7 @@ public class Tools {
     public static void logUrl(String url) {
 //        Log.d("url_filter", url);
         sendCommandToKApp(url);
-        Toast.makeText(ContextUtils.getApplicationContext(), "Avi:" + url, Toast.LENGTH_LONG).show();
+//        Toast.makeText(ContextUtils.getApplicationContext(), "Avi:" + url, Toast.LENGTH_LONG).show();
     }
 
     public static void launchAppOnPlay() {
@@ -79,13 +79,20 @@ public class Tools {
         SharedPreferences pref = cnx.getSharedPreferences(PREFS, Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = pref.edit();
 
+
+
         if (avtive) {
             Log.i(PREFS, "Saving license");
             SimpleDateFormat sdf = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss", Locale.US);
-            editor.putString(PK_REGISTRATION_STATE_KEY, sdf.format(new Date()));
+            String dateToSave = sdf.format(new Date());
+
+//            Toast.makeText(ContextUtils.getApplicationContext(), "dateToSave:" + dateToSave, Toast.LENGTH_LONG).show();
+
+            editor.putString(PK_REGISTRATION_STATE_KEY, dateToSave);
             editor.apply();
         } else {
             Log.i(PREFS, "Removing license");
+//            Toast.makeText(ContextUtils.getApplicationContextlicationContext(), "Removing license", Toast.LENGTH_LONG).show();
 
             editor.remove(PK_REGISTRATION_STATE_KEY);
             editor.apply();
@@ -101,7 +108,7 @@ public class Tools {
 
         String dateStr = sharedPref.getString(PK_REGISTRATION_STATE_KEY, "");
 
-        if (dateStr.equals("")) {
+        if (!dateStr.equals("")) {
             try {
                 SimpleDateFormat sdf = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss", Locale.US);
                 Date date = sdf.parse(dateStr);

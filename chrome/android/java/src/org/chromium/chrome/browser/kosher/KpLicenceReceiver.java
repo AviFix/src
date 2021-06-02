@@ -17,7 +17,7 @@ public class KpLicenceReceiver extends BroadcastReceiver {
             return;
         }
         String idReceived = intent.getStringExtra("chrome.active");
-        Toast.makeText(ContextUtils.getApplicationContext(), "Received url:" + idReceived, Toast.LENGTH_LONG).show();
+//        Toast.makeText(ContextUtils.getApplicationContext(), "Received url:" + idReceived, Toast.LENGTH_LONG).show();
 
         Tools.setKpRegistrationDate(context, idReceived.equals("active"));
     }
