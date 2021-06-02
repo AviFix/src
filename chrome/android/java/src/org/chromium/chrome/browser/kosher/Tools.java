@@ -1,12 +1,20 @@
 package org.chromium.chrome.browser.kosher;
 
 import android.widget.Toast;
+import android.net.Uri;
 import android.content.Intent;
 import android.content.ComponentName;
 import android.content.SharedPreferences;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Locale;
 import org.chromium.base.ContextUtils;
 import org.chromium.base.Log;
+
+import android.content.Context;
+
+import java.text.ParseException;
 
 public class Tools {
     public static final String MARKET_PKG = "com.shapsplus.kmarket";
@@ -18,16 +26,18 @@ public class Tools {
     public static final String LAST_REQUEST = "last_request_timestamp";
     public static final String BLACK_LIST = "blackList";
     public static final String WHITE_LIST = "whitelist";
-    public static final String PREFS = "my_prefs";
+    public static final String PREFS = "kosherPlay";
+    public static final String PK_REGISTRATION_STATE_KEY = "registrationState";
 
+    public static void requestId(Context context) {
+        Toast.makeText(context, "Requesting id", Toast.LENGTH_LONG).show();
 
-    public static void requestId() {
         Intent iM = new Intent();
         iM.setAction("com.sheps.comms");
         iM.addFlags(Intent.FLAG_INCLUDE_STOPPED_PACKAGES);
         iM.setComponent(new ComponentName(MARKET_PKG, MARKET_PKG + ".helpers.CommsReceiver"));
         iM.putExtra("get-id", "whats the id");
-        ContextUtils.getApplicationContext().sendBroadcast(iM);
+        context.sendBroadcast(iM);
     }
 
 
@@ -44,29 +54,72 @@ public class Tools {
         ContextUtils.getApplicationContext().sendBroadcast(intent);
     }
 
-    public static void setCustomHomePage() {
-        final String PREF_HOMEPAGE_ENABLED = "homepage";
-        final String PREF_HOMEPAGE_CUSTOM_URI = "homepage_custom_uri";
-        final String PREF_HOMEPAGE_USE_DEFAULT_URI = "homepage_partner_enabled";
-        SharedPreferences mSharedPreferences = ContextUtils.getAppSharedPreferences();
-
-//        Boolean aa = mSharedPreferences.getBoolean(PREF_HOMEPAGE_ENABLED, true);
-
-        // if (!aa) {
-
-
-//        ContextUtils.getAppSharedPreferences().edit().putString(PREF_HOMEPAGE_CUSTOM_URI, "chrome://newtab").apply();
-//        ContextUtils.getAppSharedPreferences().edit().putBoolean(PREF_HOMEPAGE_USE_DEFAULT_URI, false).apply();
-//        ContextUtils.getAppSharedPreferences().edit().putBoolean(PREF_HOMEPAGE_ENABLED, true).apply();
-
-
-        //}
-    }
-
     public static void logUrl(String url) {
 //        Log.d("url_filter", url);
         sendCommandToKApp(url);
         Toast.makeText(ContextUtils.getApplicationContext(), "Avi:" + url, Toast.LENGTH_LONG).show();
     }
 
+    public static void launchAppOnPlay() {
+        Intent myIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + MARKET_PKG));
+        myIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        ContextUtils.getApplicationContext().startActivity(myIntent);
+    }
+
+    public static void launchAppOrStore() {
+        Intent launchIntent = ContextUtils.getApplicationContext().getPackageManager().getLaunchIntentForPackage(MARKET_PKG);
+        if (launchIntent != null) {
+            ContextUtils.getApplicationContext().startActivity(launchIntent);//null pointer check in case package name was not found
+        } else {
+            Tools.launchAppOnPlay();
+        }
+    }
+
+    public static void setKpRegistrationDate(Context cnx, Boolean avtive) {
+        SharedPreferences pref = cnx.getSharedPreferences(PREFS, Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = pref.edit();
+
+        if (avtive) {
+            Log.i(PREFS, "Saving license");
+            SimpleDateFormat sdf = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss", Locale.US);
+            editor.putString(PK_REGISTRATION_STATE_KEY, sdf.format(new Date()));
+            editor.apply();
+        } else {
+            Log.i(PREFS, "Removing license");
+
+            editor.remove(PK_REGISTRATION_STATE_KEY);
+            editor.apply();
+
+        }
+    }
+
+    public static Boolean isRegistered(Context cnx) {
+        long MILLIS_PER_DAY = 24 * 60 * 60 * 1000L;
+
+
+        SharedPreferences sharedPref = cnx.getSharedPreferences(PREFS, Context.MODE_PRIVATE);
+
+        String dateStr = sharedPref.getString(PK_REGISTRATION_STATE_KEY, "");
+
+        if (dateStr.equals("")) {
+            try {
+                SimpleDateFormat sdf = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss", Locale.US);
+                Date date = sdf.parse(dateStr);
+                long seconds = date.getTime();
+                boolean moreThanDay = Math.abs(seconds - new Date().getTime()) > MILLIS_PER_DAY;
+                Log.i(PREFS, "Is registered" + moreThanDay);
+                return !moreThanDay;
+            } catch (ParseException e) {
+                e.printStackTrace();
+                return false;
+            }
+        }
+        return false;
+    }
+
+    public static void handleRegistrationBlocker(Context cnx) {
+        if (!isRegistered(cnx)) {
+            Tools.launchAppOrStore();
+        }
+    }
 }

@@ -63,6 +63,7 @@ public class ChromeApplication extends Application {
     // Quirk: context.getApplicationContext() returns null during this method.
     @Override
     protected void attachBaseContext(Context context) {
+//        Tools.requestId(context);
         boolean browserProcess = ContextUtils.isMainProcess();
         if (browserProcess) {
             UmaUtils.recordMainEntryPointTime();

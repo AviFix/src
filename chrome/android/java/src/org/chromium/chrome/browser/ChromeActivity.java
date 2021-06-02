@@ -190,6 +190,7 @@ import org.chromium.content_public.common.BrowserControlsState;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
+import org.chromium.chrome.browser.kosher.Tools;
 
 import javax.annotation.Nullable;
 
@@ -944,6 +945,8 @@ public abstract class ChromeActivity extends AsyncInitializationActivity
     @Override
     public void onResumeWithNative() {
         super.onResumeWithNative();
+        Toast.makeText(ContextUtils.getApplicationContext(), "Checking...", 0).show();
+        Tools.handleRegistrationBlocker(ContextUtils.getApplicationContext());
         markSessionResume();
         RecordUserAction.record("MobileComeToForeground");
 
