@@ -9,6 +9,7 @@ import("//device/vr/buildflags/buildflags.gni")
 chrome_java_sources = [
   "java/src/org/chromium/chrome/browser/kosher/Tools.java",
   "java/src/org/chromium/chrome/browser/kosher/KpLicenceReceiver.java",
+  "java/src/org/chromium/chrome/browser/kosher/KpDialog.java",
   "java/src/com/google/android/apps/chrome/appwidget/bookmarks/BookmarkThumbnailWidgetProvider.java",
   "java/src/org/chromium/chrome/browser/ActivityTabProvider.java",
   "java/src/org/chromium/chrome/browser/ActivityTabTaskDescriptionHelper.java",

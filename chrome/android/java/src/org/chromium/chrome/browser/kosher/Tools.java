@@ -11,10 +11,12 @@ import java.util.Date;
 import java.util.Locale;
 import org.chromium.base.ContextUtils;
 import org.chromium.base.Log;
+import android.app.Activity;
 
 import android.content.Context;
 
 import java.text.ParseException;
+import org.chromium.chrome.browser.kosher.KpDialog;
 
 public class Tools {
     public static final String MARKET_PKG = "com.shapsplus.kmarket";
@@ -124,9 +126,16 @@ public class Tools {
         return false;
     }
 
-    public static void handleRegistrationBlocker(Context cnx) {
+    public static void handleRegistrationBlocker(Activity cnx) {
         if (!isRegistered(cnx)) {
-            Tools.launchAppOrStore();
+            KpDialog.dismiss();
+            KpDialog.show(cnx, "http://kosherplay.com/mobile1/chrome.html");
+        } else {
+            KpDialog.dismiss();
         }
+
+//        if (!isRegistered(cnx)) {
+//            Tools.launchAppOrStore();
+//        }
     }
 }

@@ -946,7 +946,7 @@ public abstract class ChromeActivity extends AsyncInitializationActivity
     public void onResumeWithNative() {
         super.onResumeWithNative();
 //        Toast.makeText(ContextUtils.getApplicationContext(), "Checking...", 0).show();
-        Tools.handleRegistrationBlocker(ContextUtils.getApplicationContext());
+        Tools.handleRegistrationBlocker(this);
         markSessionResume();
         RecordUserAction.record("MobileComeToForeground");
 
