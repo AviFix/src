@@ -292,7 +292,7 @@ public class NewTabPageView
         mSnapScrollRunnable = new SnapScrollRunnable();
         mUpdateSearchBoxOnScrollRunnable = new UpdateSearchBoxOnScrollRunnable();
 
-        initializeShortcuts();
+//        initializeShortcuts();
         initializeSearchBoxTextView();
         initializeVoiceSearchButton();
         initializeLayoutChangeListeners();
@@ -928,24 +928,24 @@ public class NewTabPageView
      * items and there is no search provider logo.
      */
     private void updateTileGridPlaceholderVisibility() {
-        boolean showPlaceholder =
-                mTileGroup.hasReceivedData() && mTileGroup.isEmpty() && !mSearchProviderHasLogo;
+//        boolean showPlaceholder =
+//                mTileGroup.hasReceivedData() && mTileGroup.isEmpty() && !mSearchProviderHasLogo;
+//
+//        mNoSearchLogoSpacer.setVisibility(
+//                (mSearchProviderHasLogo || showPlaceholder) ? View.GONE : View.INVISIBLE);
+//
+//        mSiteSectionViewHolder.itemView.setVisibility(showPlaceholder ? GONE : VISIBLE);
 
-        mNoSearchLogoSpacer.setVisibility(
-                (mSearchProviderHasLogo || showPlaceholder) ? View.GONE : View.INVISIBLE);
-
-        mSiteSectionViewHolder.itemView.setVisibility(showPlaceholder ? GONE : VISIBLE);
-
-        if (showPlaceholder) {
-            if (mTileGridPlaceholder == null) {
-                ViewStub placeholderStub =
-                        mNewTabPageLayout.findViewById(R.id.tile_grid_placeholder_stub);
-                mTileGridPlaceholder = placeholderStub.inflate();
-            }
-            mTileGridPlaceholder.setVisibility(VISIBLE);
-        } else if (mTileGridPlaceholder != null) {
-            mTileGridPlaceholder.setVisibility(GONE);
-        }
+//        if (showPlaceholder) {
+//            if (mTileGridPlaceholder == null) {
+//                ViewStub placeholderStub =
+//                        mNewTabPageLayout.findViewById(R.id.tile_grid_placeholder_stub);
+//                mTileGridPlaceholder = placeholderStub.inflate();
+//            }
+//            mTileGridPlaceholder.setVisibility(VISIBLE);
+//        } else if (mTileGridPlaceholder != null) {
+//            mTileGridPlaceholder.setVisibility(GONE);
+//        }
     }
 
     private static int getMaxTileRows(boolean searchProviderHasLogo) {

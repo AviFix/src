@@ -127,11 +127,11 @@ public class MostVisitedSitesBridge
     public static List<SiteSuggestion> buildSiteSuggestions(String[] titles, String[] urls,
             int[] sections, String[] whitelistIconPaths, int[] titleSources, int[] sources,
             long[] dataGenerationTimesMs) {
-        List<SiteSuggestion> siteSuggestions = new ArrayList<>(titles.length);
-        for (int i = 0; i < titles.length; ++i) {
-            siteSuggestions.add(new SiteSuggestion(titles[i], urls[i], whitelistIconPaths[i],
-                    titleSources[i], sources[i], sections[i], new Date(dataGenerationTimesMs[i])));
-        }
+        List<SiteSuggestion> siteSuggestions = new ArrayList<>();
+//        for (int i = 0; i < titles.length; ++i) {
+//            siteSuggestions.add(new SiteSuggestion(titles[i], urls[i], whitelistIconPaths[i],
+//                    titleSources[i], sources[i], sections[i], new Date(dataGenerationTimesMs[i])));
+//        }
         return siteSuggestions;
     }
 
@@ -156,8 +156,8 @@ public class MostVisitedSitesBridge
 
         List<SiteSuggestion> suggestions = new ArrayList<>();
 
-        suggestions.addAll(buildSiteSuggestions(titles, urls, sections, whitelistIconPaths,
-                titleSources, sources, dataGenerationTimesMs));
+//        suggestions.addAll(buildSiteSuggestions(titles, urls, sections, whitelistIconPaths,
+//                titleSources, sources, dataGenerationTimesMs));
 
         mWrappedObserver.onSiteSuggestionsAvailable(suggestions);
     }
@@ -187,7 +187,8 @@ public class MostVisitedSitesBridge
     private native void nativeDestroy(long nativeMostVisitedSitesBridge);
     private native void nativeOnHomePageStateChanged(long nativeMostVisitedSitesBridge);
     private native void nativeSetObserver(
-            long nativeMostVisitedSitesBridge, MostVisitedSitesBridge observer, int numSites);
+            long nativeMostVisitedSitesBridge,
+            MostVisitedSitesBridge observer, int numSites);
     private native void nativeSetHomePageClient(
             long nativeMostVisitedSitesBridge, MostVisitedSites.HomePageClient homePageClient);
     private native void nativeAddOrRemoveBlacklistedUrl(

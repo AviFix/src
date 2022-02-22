@@ -112,22 +112,22 @@ public class NewTabPageAdapter extends Adapter<NewTabPageViewHolder> implements 
         } else {
             mSiteSection = new SiteSection(uiDelegate, mContextMenuManager, tileGroupDelegate,
                     offlinePageBridge, uiConfig);
-            mRoot.addChild(mSiteSection);
+//            mRoot.addChild(mSiteSection);
         }
 
         if (SuggestionsConfig.scrollToLoad()) {
             // If scroll-to-load is enabled, show the sign-in promo above suggested content.
-            if (mSigninPromo != null) mRoot.addChild(mSigninPromo);
-            mRoot.addChild(mAllDismissed);
-            mRoot.addChild(mSections);
+//            if (mSigninPromo != null) mRoot.addChild(mSigninPromo);
+//            mRoot.addChild(mAllDismissed);
+//            mRoot.addChild(mSections);
         } else {
-            mRoot.addChild(mSections);
-            if (mSigninPromo != null) mRoot.addChild(mSigninPromo);
-            mRoot.addChild(mAllDismissed);
+//            mRoot.addChild(mSections);
+//            if (mSigninPromo != null) mRoot.addChild(mSigninPromo);
+//            mRoot.addChild(mAllDismissed);
         }
 
         mFooter = new Footer();
-        mRoot.addChild(mFooter);
+//        mRoot.addChild(mFooter);
 
         mOfflinePageBridge = offlinePageBridge;
 
